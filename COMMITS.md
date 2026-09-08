@@ -86,3 +86,4 @@
 - [`55a463aa`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/55a463aad8c26d6f63235d0ab2f5f43511e6527f) — docs: add provenance and independent backup maintenance guide
 - [`02155113`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/02155113ee1bcd79edbb4cb2620c039be2475952) — docs: add recovered EVRP research summary with artifact status
 - [`77e11982`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/77e119828bd41f7c5aa17beaeee6111ef6070e46) — docs: describe team reengineering work and clarify archive coverage
+- [`b5882665`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/b58826652b5d19b6c366b6f7fe7ee82285f08544) — docs: require complete history and independent backup restoration

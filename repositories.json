@@ -395,7 +395,7 @@
     "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio",
     "visibility": "public",
     "kind": "public_portfolio",
-    "head": "77e119828bd41f7c5aa17beaeee6111ef6070e46",
+    "head": "b58826652b5d19b6c366b6f7fe7ee82285f08544",
     "new_commits": [
       {
         "sha": "20f62ecfbaa5797bb1af400731c241bba76a188c",
@@ -416,6 +416,11 @@
         "sha": "77e119828bd41f7c5aa17beaeee6111ef6070e46",
         "message": "docs: describe team reengineering work and clarify archive coverage",
         "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/77e119828bd41f7c5aa17beaeee6111ef6070e46"
+      },
+      {
+        "sha": "b58826652b5d19b6c366b6f7fe7ee82285f08544",
+        "message": "docs: require complete history and independent backup restoration",
+        "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/b58826652b5d19b6c366b6f7fe7ee82285f08544"
       }
     ]
   }
