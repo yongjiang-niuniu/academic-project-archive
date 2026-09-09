@@ -1,6 +1,6 @@
-# 当前项目的实际整理提交
+# Archive, documentation and maintenance commits
 
-以下只列归档和说明过程中真实完成的提交，保留原日期与作者；原项目历史没有重复计入。目录自身的历史见 GitHub。已移出展示的练习保存在 [历史台账](history/WEEKLY_COMMITS.md)。
+This ledger lists actual preservation, documentation and maintenance work for the current projects. Original project history is excluded from these counts, and automated bot commits are not counted as student work. This catalogue has its own GitHub history. Retired weekly exercises remain in the [historical ledger](history/WEEKLY_COMMITS.md).
 
 ## yongjiang-niuniu/team
 
@@ -11,6 +11,7 @@
 - [`2a3d18f7`](https://github.com/yongjiang-niuniu/team/commit/2a3d18f70fd8c23e32ded1ad5f0cfce02d88c717) — archive: recover report-added eWaste GitLab snapshot
 - [`04492c40`](https://github.com/yongjiang-niuniu/team/commit/04492c406f457bb52d21aed5b7c450be61a1c856) — archive: recover latest eWaste GitLab source snapshot
 - [`80171ddf`](https://github.com/yongjiang-niuniu/team/commit/80171ddfb3fa030c239c858fb55d97b8625bbe4f) — docs: explain recovered eWaste versions and verified prototype scope
+- [`601b4a8f`](https://github.com/yongjiang-niuniu/team/commit/601b4a8f6feac8ee40792b5d33d3bbf0d24062d4) — docs: organize eWaste project overview and architecture navigation
 
 ## yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05
 
@@ -21,6 +22,7 @@
 - [`9785ca3a`](https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/9785ca3af3359ab776c9644af1f7669987e4ce01) — docs: organize final yarl project around the submitted report
 - [`64feb8d3`](https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/64feb8d3d7b4a0453df46b0ab09239e97b30770e) — docs: verify canonical report against Blackboard final submission
 - [`71d868c9`](https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/71d868c9e77d61e2ebd0e7c0500a7bd3ffe97690) — docs: explain final project setup and evidence-preserving reproduction
+- [`ac613beb`](https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/ac613bebdea6750ee1d7ade5ed1cf7f9dc733d2e) — docs: explain YARL reengineering outcomes and organize project guides
 
 ## yongjiang-niuniu/COMP
 
@@ -28,6 +30,7 @@
 - [`77be1409`](https://github.com/yongjiang-niuniu/COMP/commit/77be1409b5c595a9b9fa7d7579f4ba2738f6d6ef) — docs: explain hash table design and prediction limits
 - [`3510dd09`](https://github.com/yongjiang-niuniu/COMP/commit/3510dd09eb5fd13651e4bf8eb35747dc7418cce8) — archive: preserve official COM6516 submission and final report
 - [`a78a60c4`](https://github.com/yongjiang-niuniu/COMP/commit/a78a60c4dccc9b9c697eb528127713ee922ce9a2) — docs: document final submission evidence and source rebuild requirements
+- [`72a84cc6`](https://github.com/yongjiang-niuniu/COMP/commit/72a84cc60ed04ca813c4f9d6df4b38112d864f54) — docs: organize language model guide and source build workflow
 
 ## yongjiang-niuniu/com6115-sentiment-analysis
 
@@ -36,18 +39,21 @@
 - [`bc6c65ca`](https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/bc6c65ca5ad564787d8f1e709d2035a8129c308b) — docs: explain sentiment models, data requirements and evidence scope
 - [`21ba61e8`](https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/21ba61e813688f102aa32f660bb12675d4d9bbb6) — archive: recover complete official COM6115 course dependencies
 - [`a0321db6`](https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/a0321db6d1b17bbda93b1791a156d84b7e1eb66e) — docs: document complete data recovery and verified submitted workflow
+- [`40aee9be`](https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/40aee9bec9c0525875fd380460ec88c50f4cb092) — docs: unify project overview and add documentation navigation
 
 ## yongjiang-niuniu/com6521-parallel-computing
 
 - [`4738d7de`](https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/4738d7def5cb0e47a98388d89acabc25a8138e41) — archive: preserve official COM6521 OpenMP and CUDA submission
 - [`5393dc78`](https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/5393dc78269c8d8e8504d27264eeb033bee0996b) — archive: restore verified course framework around submitted implementations
 - [`b74a521e`](https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/b74a521e3f460cefd67189a298c7ef930ad421bc) — docs: explain parallel algorithms, build workflow and evidence limits
+- [`a4fe486e`](https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/a4fe486ebb1a1c4a93cc005f4e8e37b569d14a6c) — docs: unify project overview and add documentation navigation
 
 ## yongjiang-niuniu/com6009-natural-systems-modelling
 
 - [`844e0b97`](https://github.com/yongjiang-niuniu/com6009-natural-systems-modelling/commit/844e0b978be99525b6dba63df63cc54810c04d79) — archive: preserve official COM6009 individual assignment report
 - [`ebd08c94`](https://github.com/yongjiang-niuniu/com6009-natural-systems-modelling/commit/ebd08c945e52635b4a2506c6b60a056fbcd03c85) — docs: explain nonlinear and ecological modelling coursework
 - [`43534f8b`](https://github.com/yongjiang-niuniu/com6009-natural-systems-modelling/commit/43534f8b684de756db8ae98d2fbbf2a1a8a9178d) — docs: record model parameters and reproduction requirements
+- [`fc93c422`](https://github.com/yongjiang-niuniu/com6009-natural-systems-modelling/commit/fc93c42292c70ea0531767f7d73a4aceabf75ac3) — docs: explain natural-systems studies and report evidence
 
 ## yongjiang-niuniu/com6503-3d-computer-graphics
 
@@ -55,11 +61,13 @@
 - [`661c151f`](https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/661c151fe12e04f64a096e2c2f06f975a7ae6fa9) — docs: explain graphics project setup and document pending second submission
 - [`5d810171`](https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/5d81017193ff031fee06c219da57781be9e1c7eb) — archive: preserve official COM6503 statue-rendering comparison report
 - [`c63b4b51`](https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/c63b4b516d45071d4260a5585486bed1257ea103) — docs: explain Blender material study and complete submission coverage
+- [`877b6085`](https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/877b6085696330e54d1d16b3b716cc987d2004ad) — docs: unify project overview and add documentation navigation
 
 ## yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems
 
 - [`a4ecf545`](https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems/commit/a4ecf5455f341929dfd397877bf7d4e522aba177) — docs: explain HPC energy workflow and archived results
 - [`341480b2`](https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems/commit/341480b25749eb2af9f0a3760d1604d16f64a8b9) — docs: document simulator reproduction prerequisites and energy model
+- [`75b0bc4b`](https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems/commit/75b0bc4b69b79002548915bfd31e626c34ba5bd1) — docs: organize HPC project overview, workflow and research navigation
 
 ## yongjiang-niuniu/academic-project-portfolio
 
@@ -71,13 +79,17 @@
 - [`4deed821`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/4deed8212ddbff773c480c8374f881a3a1a0e8d4) — docs: focus the portfolio on verified final project submissions
 - [`2aa432bd`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/2aa432bdef32874b9aa35b7e2ad9d86d03b13634) — docs: catalogue recovered final projects and complete course review
 - [`5be8f75f`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/5be8f75f11427ecc5b7582f2402ae6ddb0b3ce61) — docs: complete submission coverage and record weekly archive cleanup
+- [`41463248`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/4146324872c5475347289784707e0ce5f74e1391) — docs: unify portfolio navigation and reflect refreshed project versions
 
-## yongjiang-niuniu/cider-100
+## yongjiang-niuniu/cifar-100
 
-- [`bf04cfee`](https://github.com/yongjiang-niuniu/cider-100/commit/bf04cfee00cceb8e3ac6d90f1b62ea579136a510) — docs: introduce CIFAR-100 notebook experiments
-- [`86b7d485`](https://github.com/yongjiang-niuniu/cider-100/commit/86b7d485cc56b79da22be990e5bb9ba35525c642) — docs: record reproducibility gaps and metric limitations
+- [`bf04cfee`](https://github.com/yongjiang-niuniu/cifar-100/commit/bf04cfee00cceb8e3ac6d90f1b62ea579136a510) — docs: introduce CIFAR-100 notebook experiments
+- [`86b7d485`](https://github.com/yongjiang-niuniu/cifar-100/commit/86b7d485cc56b79da22be990e5bb9ba35525c642) — docs: record reproducibility gaps and metric limitations
+- [`d1158b16`](https://github.com/yongjiang-niuniu/cifar-100/commit/d1158b1623da3942a8c1a99b7d27faa7dbf5da5d) — archive: preserve original CIFAR notebooks and experiment provenance
+- [`48ba9925`](https://github.com/yongjiang-niuniu/cifar-100/commit/48ba9925fb96f655167a3b6a022b74ce0f1d8c0f) — refactor: repair CIFAR-100 workflow and document offline validation
 
 ## yongjiang-niuniu/evrp-perturbation-study
 
 - [`9d2aa4b5`](https://github.com/yongjiang-niuniu/evrp-perturbation-study/commit/9d2aa4b5b78c317d929c1e219c1c196886d99c4f) — archive: preserve original EVRP research report with provenance
 - [`c6c3ae7b`](https://github.com/yongjiang-niuniu/evrp-perturbation-study/commit/c6c3ae7b4c76802e495fe9fa5f98258060f59f9d) — docs: explain EVRP methods, recovery scope and evidence limits
+- [`04058394`](https://github.com/yongjiang-niuniu/evrp-perturbation-study/commit/04058394789b574177504c99ffceb287472da51d) — docs: explain EVRP methods and guide interpretation of reported results

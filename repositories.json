@@ -3,11 +3,11 @@
     "repository": "yongjiang-niuniu/team",
     "url": "https://github.com/yongjiang-niuniu/team",
     "visibility": "private",
-    "head": "80171ddfb3fa030c239c858fb55d97b8625bbe4f",
+    "head": "601b4a8f6feac8ee40792b5d33d3bbf0d24062d4",
     "kind": "official_coursework_archive",
     "course": "COM6103",
-    "title": "eWaste Hub 团队项目",
-    "description": "正式 Blackboard 报告、报告加入时和最新 main 的两个 GitLab 源码快照已保存；前后端源码已恢复。原 GitLab 的 249 个提交及分支历史未导入。",
+    "title": "eWaste Hub",
+    "description": "React/Flask e-waste management coursework prototype with owner, staff and admin workflows, documented validation and preserved team provenance.",
     "new_commits": [
       {
         "sha": "b110a67771b2c62827c3e4255975099e3021be80",
@@ -50,6 +50,12 @@
         "message": "docs: explain recovered eWaste versions and verified prototype scope",
         "author_date": "2026-09-09T19:01:36+08:00",
         "url": "https://github.com/yongjiang-niuniu/team/commit/80171ddfb3fa030c239c858fb55d97b8625bbe4f"
+      },
+      {
+        "sha": "601b4a8f6feac8ee40792b5d33d3bbf0d24062d4",
+        "message": "docs: organize eWaste project overview and architecture navigation",
+        "author_date": "2026-09-09T20:43:43+08:00",
+        "url": "https://github.com/yongjiang-niuniu/team/commit/601b4a8f6feac8ee40792b5d33d3bbf0d24062d4"
       }
     ],
     "verification_source": "_audit/ewaste_integration_receipt.json",
@@ -70,17 +76,19 @@
         "commit": "04492c406f457bb52d21aed5b7c450be61a1c856"
       }
     },
-    "canonical_report_sha256": "1cded5fef40262c3e30cb883781ca83a682f3e64c261ccac4e75fd23e37cdc37"
+    "canonical_report_sha256": "1cded5fef40262c3e30cb883781ca83a682f3e64c261ccac4e75fd23e37cdc37",
+    "latest_refresh_receipt": "_audit/project_refresh/team.json",
+    "latest_refresh_receipt_sha256": "34551ba93253c987ad4e80aca5b5d605744af250e8bea59b08c3d9d5a652b0a0"
   },
   {
     "repository": "yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05",
     "url": "https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05",
     "visibility": "private",
-    "head": "71d868c9e77d61e2ebd0e7c0500a7bd3ffe97690",
+    "head": "ac613bebdea6750ee1d7ade5ed1cf7f9dc733d2e",
     "kind": "classroom_final_project_archive",
     "course": "COM6523",
-    "title": "YARL 软件重构最终项目",
-    "description": "团队最终报告、源码、分析材料、报告与代码对应指南及原课堂 Git 历史已保存。",
+    "title": "YARL reengineering",
+    "description": "Final COM6523 PG_05 project: behaviour-preserving yarl path-resolution refactoring, regression tests, analysis, and verified submitted report.",
     "source_repository": "https://github.com/TUOS-COM-Reengineering-2026/group-project-pg_05",
     "source_branches": {
       "main": "090d39f005a881a68ade8c62983ee2420d590bd1"
@@ -129,21 +137,30 @@
         "message": "docs: explain final project setup and evidence-preserving reproduction",
         "author_date": "2026-09-09T08:33:44+08:00",
         "url": "https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/71d868c9e77d61e2ebd0e7c0500a7bd3ffe97690"
+      },
+      {
+        "sha": "ac613bebdea6750ee1d7ade5ed1cf7f9dc733d2e",
+        "message": "docs: explain YARL reengineering outcomes and organize project guides",
+        "author_date": "2026-09-09T20:46:21+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/ac613bebdea6750ee1d7ade5ed1cf7f9dc733d2e"
       }
     ],
     "canonical_report_sha256": "de0b49b299663d7dc180f24d015b760ee9c024c6326ee124c6d1e3584e7a659c",
     "blackboard_final_report_verified": true,
-    "verification_source": "_audit/blackboard/course_inventory.json"
+    "verification_source": "_audit/blackboard/course_inventory.json",
+    "latest_refresh_receipt": "_audit/project_refresh/com6523-2026-yarl-reengineering-pg-05.json",
+    "latest_refresh_receipt_sha256": "a467b19cb7e7c61dcf1fc4fe38a622bf362e6f871ed03dd500790dbfa19d2c27",
+    "documentation_refresh_summary": "Reorganized the team reengineering overview around design, historical outcomes, setup and attribution; added documentation navigation and detailed archive notes."
   },
   {
     "repository": "yongjiang-niuniu/COMP",
     "url": "https://github.com/yongjiang-niuniu/COMP",
     "visibility": "private",
-    "head": "a78a60c4dccc9b9c697eb528127713ee922ce9a2",
+    "head": "72a84cc60ed04ca813c4f9d6df4b38112d864f54",
     "kind": "official_coursework_archive",
     "course": "COM6516",
-    "title": "Java 统计语言模型",
-    "description": "正式报告和原始提交 ZIP 已补入 COMP；7 份 Java 源码核对一致。保留 Java 25 编译文件，运行前按说明重新编译源码。",
+    "title": "Statistical language model",
+    "description": "Java Swing statistical language-model coursework with custom hash tables, collision statistics and deterministic bigram/trigram continuation.",
     "new_commits": [
       {
         "sha": "deba3e3b67358d03a16eae8c67d73151e068bda2",
@@ -168,6 +185,12 @@
         "message": "docs: document final submission evidence and source rebuild requirements",
         "author_date": "2026-09-09T19:10:06+08:00",
         "url": "https://github.com/yongjiang-niuniu/COMP/commit/a78a60c4dccc9b9c697eb528127713ee922ce9a2"
+      },
+      {
+        "sha": "72a84cc60ed04ca813c4f9d6df4b38112d864f54",
+        "message": "docs: organize language model guide and source build workflow",
+        "author_date": "2026-09-09T20:43:43+08:00",
+        "url": "https://github.com/yongjiang-niuniu/COMP/commit/72a84cc60ed04ca813c4f9d6df4b38112d864f54"
       }
     ],
     "verification_source": "_audit/com6516_publication.json",
@@ -175,17 +198,19 @@
     "remote_head_and_files_verified": true,
     "source_head": "4596d8867a7ced9994ec9b2e90e702a61c38f09d",
     "original_source_unchanged": true,
-    "canonical_report_sha256": "52ab32c0464c8a7eec381743005f2b1b123f03bcbfea837e6d37efea053c98a4"
+    "canonical_report_sha256": "52ab32c0464c8a7eec381743005f2b1b123f03bcbfea837e6d37efea053c98a4",
+    "latest_refresh_receipt": "_audit/project_refresh/comp.json",
+    "latest_refresh_receipt_sha256": "c6991b0c269b58f533cf4a70306662fb4757827f11b92c6c53dd24da750431a4"
   },
   {
     "repository": "yongjiang-niuniu/com6115-sentiment-analysis",
     "url": "https://github.com/yongjiang-niuniu/com6115-sentiment-analysis",
     "visibility": "private",
-    "head": "a0321db6d1b17bbda93b1791a156d84b7e1eb66e",
+    "head": "40aee9bec9c0525875fd380460ec88c50f4cb092",
     "kind": "official_coursework_archive",
     "course": "COM6115",
-    "title": "情感分析",
-    "description": "正式报告、原始 Sentiment.py、6 份课程数据、官方起始代码及说明已保存；默认脚本已受控跑通，使用本次新随机划分。",
+    "title": "Sentiment analysis",
+    "description": "COM6115 sentiment analysis: Naive Bayes and lexicon rules across movie and Nokia reviews; complete data, submitted report and verification.",
     "new_commits": [
       {
         "sha": "fdb3267d387dba297e241dba482e944ee7cec09b",
@@ -216,23 +241,31 @@
         "message": "docs: document complete data recovery and verified submitted workflow",
         "author_date": "2026-09-09T19:14:59+08:00",
         "url": "https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/a0321db6d1b17bbda93b1791a156d84b7e1eb66e"
+      },
+      {
+        "sha": "40aee9bec9c0525875fd380460ec88c50f4cb092",
+        "message": "docs: unify project overview and add documentation navigation",
+        "author_date": "2026-09-09T20:44:11+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/40aee9bec9c0525875fd380460ec88c50f4cb092"
       }
     ],
     "verification_source": "_audit/com6115/publication_receipt.json",
     "verification_receipt_sha256": "d053cb9a85cf8b69654cf70db585b62ac20a11be8a1ff609b81c729c15169393",
     "remote_head_and_files_verified": true,
     "historical_report_metrics_reproduced": false,
-    "course_data_files_recovered": 6
+    "course_data_files_recovered": 6,
+    "latest_refresh_receipt": "_audit/project_refresh/com6115-sentiment-analysis.json",
+    "latest_refresh_receipt_sha256": "d3fe03c0f1586628883ab2d6a5bc25c6410b6df17b24ea4a7f02ff98c1b742c0"
   },
   {
     "repository": "yongjiang-niuniu/com6521-parallel-computing",
     "url": "https://github.com/yongjiang-niuniu/com6521-parallel-computing",
     "visibility": "private",
-    "head": "b74a521e3f460cefd67189a298c7ef930ad421bc",
+    "head": "a4fe486ebb1a1c4a93cc005f4e8e37b569d14a6c",
     "kind": "official_coursework_archive",
     "course": "COM6521",
-    "title": "OpenMP 与 CUDA 并行计算",
-    "description": "正式 ZIP、学生源码、7 页报告和经官方上游校验的 v7 框架已保存；512 种局部窗口分类核对通过，完整 GPU 基准未重跑。",
+    "title": "Parallel computing",
+    "description": "COM6521 OpenMP and CUDA coursework: glider counting, histograms and embossing; implementation, complete course framework and performance evidence.",
     "new_commits": [
       {
         "sha": "4738d7def5cb0e47a98388d89acabc25a8138e41",
@@ -251,21 +284,29 @@
         "message": "docs: explain parallel algorithms, build workflow and evidence limits",
         "author_date": "2026-09-09T19:05:43+08:00",
         "url": "https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/b74a521e3f460cefd67189a298c7ef930ad421bc"
+      },
+      {
+        "sha": "a4fe486ebb1a1c4a93cc005f4e8e37b569d14a6c",
+        "message": "docs: unify project overview and add documentation navigation",
+        "author_date": "2026-09-09T20:44:25+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/a4fe486ebb1a1c4a93cc005f4e8e37b569d14a6c"
       }
     ],
     "verification_source": "_audit/com6521_publication.json",
     "verification_receipt_sha256": "4246d9941b51c76235dd31465dc250660f1b7566c7b835f6ebe759097f5a9670",
-    "remote_head_and_files_verified": true
+    "remote_head_and_files_verified": true,
+    "latest_refresh_receipt": "_audit/project_refresh/com6521-parallel-computing.json",
+    "latest_refresh_receipt_sha256": "afd22187834ef4beb266954a96480a971a436ac39f857ea31b9236b968ce0c6e"
   },
   {
     "repository": "yongjiang-niuniu/com6009-natural-systems-modelling",
     "url": "https://github.com/yongjiang-niuniu/com6009-natural-systems-modelling",
     "visibility": "private",
-    "head": "43534f8b684de756db8ae98d2fbbf2a1a8a9178d",
+    "head": "fc93c42292c70ea0531767f7d73a4aceabf75ac3",
     "kind": "official_coursework_archive",
     "course": "COM6009",
-    "title": "自然系统建模报告",
-    "description": "正式 3 页个人报告已保存，涵盖 Duffing 振子、草兔狐主体模型和捕捞模型；未恢复模拟源码。",
+    "title": "Natural-systems modelling",
+    "description": "COM6009 individual assignment report: Duffing dynamics, agent-based ecology and harvested Lotka–Volterra models; original submission and reproducibility notes.",
     "new_commits": [
       {
         "sha": "844e0b978be99525b6dba63df63cc54810c04d79",
@@ -284,22 +325,31 @@
         "message": "docs: record model parameters and reproduction requirements",
         "author_date": "2026-09-09T18:53:51+08:00",
         "url": "https://github.com/yongjiang-niuniu/com6009-natural-systems-modelling/commit/43534f8b684de756db8ae98d2fbbf2a1a8a9178d"
+      },
+      {
+        "sha": "fc93c42292c70ea0531767f7d73a4aceabf75ac3",
+        "message": "docs: explain natural-systems studies and report evidence",
+        "author_date": "2026-09-09T20:46:23+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6009-natural-systems-modelling/commit/fc93c42292c70ea0531767f7d73a4aceabf75ac3"
       }
     ],
     "verification_source": "_audit/com6009_publication.json",
     "verification_receipt_sha256": "4655dd671d7a2a2fb60ffc66eaa0f55ea343680462bfb723c6a94448647a0f48",
     "remote_head_and_files_verified": true,
-    "original_simulation_source_recovered": false
+    "original_simulation_source_recovered": false,
+    "latest_refresh_receipt": "_audit/project_refresh/com6009-natural-systems-modelling.json",
+    "latest_refresh_receipt_sha256": "7418f2ffd02410fd2adaa3b930506f0d15c957e126c40fc684b2bd9528eb032d",
+    "documentation_refresh_summary": "Explained three modelling investigations, figure reading order, reported numerical results and precise reproduction limitations."
   },
   {
     "repository": "yongjiang-niuniu/com6503-3d-computer-graphics",
     "url": "https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics",
     "visibility": "private",
-    "head": "c63b4b516d45071d4260a5585486bed1257ea103",
+    "head": "877b6085696330e54d1d16b3b716cc987d2004ad",
     "kind": "official_coursework_archive",
     "course": "COM6503",
-    "title": "3D 图形学课程项目",
-    "description": "作业 1 的 C++/OpenGL 蜂场景源码、资源和原始 ZIP 已保存；作业 2 的 19 页 Blender 材质对比论文已保存，.blend、原始照片、材质包和精确渲染设置未恢复。",
+    "title": "3D computer graphics",
+    "description": "COM6503 graphics coursework: interactive OpenGL bee scene and Blender statue-material study; original submissions, setup and design documentation.",
     "new_commits": [
       {
         "sha": "eb31c8bc3edca069d9ce6e3148248ca511d1ef51",
@@ -324,6 +374,12 @@
         "message": "docs: explain Blender material study and complete submission coverage",
         "author_date": "2026-09-09T20:01:37+08:00",
         "url": "https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/c63b4b516d45071d4260a5585486bed1257ea103"
+      },
+      {
+        "sha": "877b6085696330e54d1d16b3b716cc987d2004ad",
+        "message": "docs: unify project overview and add documentation navigation",
+        "author_date": "2026-09-09T20:44:38+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/877b6085696330e54d1d16b3b716cc987d2004ad"
       }
     ],
     "verification_source": "_audit/com6503_publication.json",
@@ -336,16 +392,18 @@
       "Original .blend scene files not recovered",
       "Independent original photographs and material packages not recovered",
       "Exact render settings not recovered"
-    ]
+    ],
+    "latest_refresh_receipt": "_audit/project_refresh/com6503-3d-computer-graphics.json",
+    "latest_refresh_receipt_sha256": "cd33f85dc36df3986d40fc2d656f1f2706d2e7e3aaadbddae8e7ac798c9735ab"
   },
   {
     "repository": "yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems",
     "url": "https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems",
     "visibility": "public",
-    "head": "341480b25749eb2af9f0a3760d1604d16f64a8b9",
+    "head": "75b0bc4b69b79002548915bfd31e626c34ba5bd1",
     "kind": "existing_project_documentation",
     "source_head": "8ae4318369edf4b72827225fa61dd371a75b703f",
-    "description": "已有 GitHub 模拟配置、工作负载和分析快照；研究仍在进行。Blackboard 毕业论文、代码等 5 个最终提交入口均未提交。",
+    "description": "HPC energy and carbon estimation: synthetic Slurm workloads, scheduling-log analysis, per-job models and documented research results.",
     "new_commits": [
       {
         "sha": "a4ecf5455f341929dfd397877bf7d4e522aba177",
@@ -358,21 +416,29 @@
         "message": "docs: document simulator reproduction prerequisites and energy model",
         "author_date": "2026-09-09T07:42:29+08:00",
         "url": "https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems/commit/341480b25749eb2af9f0a3760d1604d16f64a8b9"
+      },
+      {
+        "sha": "75b0bc4b69b79002548915bfd31e626c34ba5bd1",
+        "message": "docs: organize HPC project overview, workflow and research navigation",
+        "author_date": "2026-09-09T20:47:58+08:00",
+        "url": "https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems/commit/75b0bc4b69b79002548915bfd31e626c34ba5bd1"
       }
     ],
     "verification_source": "_audit/github_docs_results.json",
-    "title": "HPC 能耗与碳排放研究",
+    "title": "HPC energy and carbon",
     "course": "COM6906",
-    "official_final_submission": false
+    "official_final_submission": false,
+    "latest_refresh_receipt": "_audit/project_refresh/hpc.json",
+    "latest_refresh_receipt_sha256": "990eb86045e18edfdec0b4de26aa5ca074b1b2cfa5c6e4d49e902f7f85ac62e7"
   },
   {
     "repository": "yongjiang-niuniu/academic-project-portfolio",
     "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio",
     "visibility": "public",
-    "head": "5be8f75f11427ecc5b7582f2402ae6ddb0b3ce61",
+    "head": "4146324872c5475347289784707e0ce5f74e1391",
     "kind": "public_portfolio",
     "title": "公开项目作品集",
-    "description": "对外展示项目概览；课堂原件与团队材料保存在对应私有档案。",
+    "description": "Yongjiang Liu's academic portfolio: software engineering, machine learning, HPC, optimization and graphics projects with final reports and practical guides.",
     "new_commits": [
       {
         "sha": "20f62ecfbaa5797bb1af400731c241bba76a188c",
@@ -421,42 +487,70 @@
         "message": "docs: complete submission coverage and record weekly archive cleanup",
         "author_date": "2026-09-09T20:04:54+08:00",
         "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/5be8f75f11427ecc5b7582f2402ae6ddb0b3ce61"
+      },
+      {
+        "sha": "4146324872c5475347289784707e0ce5f74e1391",
+        "message": "docs: unify portfolio navigation and reflect refreshed project versions",
+        "author_date": "2026-09-09T21:05:54+08:00",
+        "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/4146324872c5475347289784707e0ce5f74e1391"
       }
     ],
-    "verification_source": "GitHub published main ref read during catalogue generation"
+    "verification_source": "GitHub published main ref read during catalogue generation",
+    "latest_refresh_receipt": "_audit/project_refresh/academic-project-portfolio.json",
+    "latest_refresh_receipt_sha256": "3ea94a4577ca6bb17d582d671765d6f072fdc432f279e08e0ee55165d69e813f"
   },
   {
-    "repository": "yongjiang-niuniu/cider-100",
-    "url": "https://github.com/yongjiang-niuniu/cider-100",
+    "repository": "yongjiang-niuniu/cifar-100",
+    "url": "https://github.com/yongjiang-niuniu/cifar-100",
     "visibility": "public",
-    "head": "86b7d485cc56b79da22be990e5bb9ba35525c642",
+    "head": "48ba9925fb96f655167a3b6a022b74ce0f1d8c0f",
     "kind": "existing_project_documentation",
     "source_head": "a6cd0c577b1a2e39feee146de5214f630f81addd",
-    "description": "ResNet 与 Vision Transformer 训练笔记本，保留原实验输出及可复现性限制说明；未将其冒认为已核实的 Blackboard 最终提交。",
+    "description": "CIFAR-100 image classification with ResNet and Vision Transformers: preserved experiments, a maintained ResNet-50 workflow, and offline execution checks.",
     "new_commits": [
       {
         "sha": "bf04cfee00cceb8e3ac6d90f1b62ea579136a510",
         "message": "docs: introduce CIFAR-100 notebook experiments",
         "author_date": "2026-09-09T07:42:29+08:00",
-        "url": "https://github.com/yongjiang-niuniu/cider-100/commit/bf04cfee00cceb8e3ac6d90f1b62ea579136a510"
+        "url": "https://github.com/yongjiang-niuniu/cifar-100/commit/bf04cfee00cceb8e3ac6d90f1b62ea579136a510"
       },
       {
         "sha": "86b7d485cc56b79da22be990e5bb9ba35525c642",
         "message": "docs: record reproducibility gaps and metric limitations",
         "author_date": "2026-09-09T07:42:29+08:00",
-        "url": "https://github.com/yongjiang-niuniu/cider-100/commit/86b7d485cc56b79da22be990e5bb9ba35525c642"
+        "url": "https://github.com/yongjiang-niuniu/cifar-100/commit/86b7d485cc56b79da22be990e5bb9ba35525c642"
+      },
+      {
+        "sha": "d1158b1623da3942a8c1a99b7d27faa7dbf5da5d",
+        "message": "archive: preserve original CIFAR notebooks and experiment provenance",
+        "author_date": "2026-09-09T21:03:11+08:00",
+        "url": "https://github.com/yongjiang-niuniu/cifar-100/commit/d1158b1623da3942a8c1a99b7d27faa7dbf5da5d"
+      },
+      {
+        "sha": "48ba9925fb96f655167a3b6a022b74ce0f1d8c0f",
+        "message": "refactor: repair CIFAR-100 workflow and document offline validation",
+        "author_date": "2026-09-09T21:03:12+08:00",
+        "url": "https://github.com/yongjiang-niuniu/cifar-100/commit/48ba9925fb96f655167a3b6a022b74ce0f1d8c0f"
       }
     ],
     "verification_source": "_audit/github_docs_results.json",
-    "title": "CIFAR-100 分类实验"
+    "former_repository_names": [
+      "yongjiang-niuniu/cider-100"
+    ],
+    "repository_id": 955965824,
+    "rename_evidence": "_audit/project_refresh/cifar_rename.json",
+    "rename_note": "Same GitHub repository and original history; historical receipts may retain the former slug.",
+    "title": "CIFAR-100 experiments",
+    "latest_refresh_receipt": "_audit/project_refresh/cifar-100.json",
+    "latest_refresh_receipt_sha256": "0bbd230c6844366f617ee6f5820c0a63e3ab1b8d20d6ff170535e73a420f934a"
   },
   {
     "repository": "yongjiang-niuniu/evrp-perturbation-study",
     "url": "https://github.com/yongjiang-niuniu/evrp-perturbation-study",
     "visibility": "private",
-    "head": "c6c3ae7b4c76802e495fe9fa5f98258060f59f9d",
+    "head": "04058394789b574177504c99ffceb287472da51d",
     "kind": "report_archive",
-    "title": "EVRP 路径优化研究",
+    "title": "EVRP perturbation study",
     "new_commits": [
       {
         "sha": "9d2aa4b5b78c317d929c1e219c1c196886d99c4f",
@@ -469,10 +563,19 @@
         "message": "docs: explain EVRP methods, recovery scope and evidence limits",
         "author_date": "2026-09-09T07:41:56+08:00",
         "url": "https://github.com/yongjiang-niuniu/evrp-perturbation-study/commit/c6c3ae7b4c76802e495fe9fa5f98258060f59f9d"
+      },
+      {
+        "sha": "04058394789b574177504c99ffceb287472da51d",
+        "message": "docs: explain EVRP methods and guide interpretation of reported results",
+        "author_date": "2026-09-09T20:46:26+08:00",
+        "url": "https://github.com/yongjiang-niuniu/evrp-perturbation-study/commit/04058394789b574177504c99ffceb287472da51d"
       }
     ],
     "report_sha256": "81fa3163f9b8473c0096a869ea69d96bcb3af117e16bbe21380a9c86aa6b951c",
-    "description": "原始研究报告已保存；实现代码、原始实验记录和基准文件尚未恢复。",
-    "verification_source": "_audit/evrp_publication.json"
+    "description": "Personal archive of an EVRP research report comparing perturbation-driven GA, SA and ACO methods; implementation and raw experiments not yet recovered.",
+    "verification_source": "_audit/evrp_publication.json",
+    "latest_refresh_receipt": "_audit/project_refresh/evrp-perturbation-study.json",
+    "latest_refresh_receipt_sha256": "237725c0872e919bb8178fbebceeb8044e4470fc082b0c4e48980481adf594a5",
+    "documentation_refresh_summary": "Explained the EVRP research questions and search methods, added report reading guidance, and distinguished historical results from unresolved table/prose discrepancies."
   }
 ]
