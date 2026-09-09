@@ -1,41 +1,24 @@
 [
   {
-    "repository": "yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems",
-    "url": "https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems",
-    "visibility": "public",
-    "head": "341480b25749eb2af9f0a3760d1604d16f64a8b9",
-    "kind": "existing_project_documentation",
-    "source_head": "8ae4318369edf4b72827225fa61dd371a75b703f",
-    "new_commits": [
-      {
-        "sha": "a4ecf5455f341929dfd397877bf7d4e522aba177",
-        "message": "docs: explain HPC energy workflow and archived results",
-        "url": "https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems/commit/a4ecf5455f341929dfd397877bf7d4e522aba177"
-      },
-      {
-        "sha": "341480b25749eb2af9f0a3760d1604d16f64a8b9",
-        "message": "docs: document simulator reproduction prerequisites and energy model",
-        "url": "https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems/commit/341480b25749eb2af9f0a3760d1604d16f64a8b9"
-      }
-    ],
-    "description": "Energy and carbon monitoring workflows for high performance computing systems."
-  },
-  {
     "repository": "yongjiang-niuniu/team",
     "url": "https://github.com/yongjiang-niuniu/team",
     "visibility": "private",
-    "head": "88dcfd26e344ee855bd2dbed646f417a6b55463d",
-    "kind": "existing_project_documentation",
-    "source_head": "12909c9cdaa93a7eaf70041547113e5b412b1d7a",
+    "head": "80171ddfb3fa030c239c858fb55d97b8625bbe4f",
+    "kind": "official_coursework_archive",
+    "course": "COM6103",
+    "title": "eWaste Hub 团队项目",
+    "description": "正式 Blackboard 报告、报告加入时和最新 main 的两个 GitLab 源码快照已保存；前后端源码已恢复。原 GitLab 的 249 个提交及分支历史未导入。",
     "new_commits": [
       {
         "sha": "b110a67771b2c62827c3e4255975099e3021be80",
         "message": "docs: explain eWaste backend scope and local setup",
+        "author_date": "2026-09-09T07:42:29+08:00",
         "url": "https://github.com/yongjiang-niuniu/team/commit/b110a67771b2c62827c3e4255975099e3021be80"
       },
       {
         "sha": "5b641c8d57e00d64a2948406ac50e0597f534464",
         "message": "docs: document collection request API and role workflow",
+        "author_date": "2026-09-09T07:42:29+08:00",
         "url": "https://github.com/yongjiang-niuniu/team/commit/5b641c8d57e00d64a2948406ac50e0597f534464"
       },
       {
@@ -49,108 +32,84 @@
         "message": "docs: connect the final submission to historical code and recovery gaps",
         "author_date": "2026-09-09T08:45:47+08:00",
         "url": "https://github.com/yongjiang-niuniu/team/commit/88dcfd26e344ee855bd2dbed646f417a6b55463d"
+      },
+      {
+        "sha": "2a3d18f70fd8c23e32ded1ad5f0cfce02d88c717",
+        "message": "archive: recover report-added eWaste GitLab snapshot",
+        "author_date": "2026-09-09T18:53:08+08:00",
+        "url": "https://github.com/yongjiang-niuniu/team/commit/2a3d18f70fd8c23e32ded1ad5f0cfce02d88c717"
+      },
+      {
+        "sha": "04492c406f457bb52d21aed5b7c450be61a1c856",
+        "message": "archive: recover latest eWaste GitLab source snapshot",
+        "author_date": "2026-09-09T18:53:35+08:00",
+        "url": "https://github.com/yongjiang-niuniu/team/commit/04492c406f457bb52d21aed5b7c450be61a1c856"
+      },
+      {
+        "sha": "80171ddfb3fa030c239c858fb55d97b8625bbe4f",
+        "message": "docs: explain recovered eWaste versions and verified prototype scope",
+        "author_date": "2026-09-09T19:01:36+08:00",
+        "url": "https://github.com/yongjiang-niuniu/team/commit/80171ddfb3fa030c239c858fb55d97b8625bbe4f"
       }
     ],
-    "description": "Private COM6103 archive preserving the official final report and a March 2026 historical backend; complete final GitLab source remains unrecovered.",
-    "final_report_archive_status": "official_report_and_submission_receipt_preserved",
-    "source_code_status": "march_2026_backend_snapshot_only_final_gitlab_source_unrecovered",
+    "verification_source": "_audit/ewaste_integration_receipt.json",
+    "verification_receipt_sha256": "acb2fbf353e7c27166f74ed1056af436dce25444ce5b7ee5acef49cf4a39cc7b",
+    "remote_head_and_files_verified": true,
+    "source_head": "12909c9cdaa93a7eaf70041547113e5b412b1d7a",
+    "source_code_status": "two_gitlab_source_snapshots_recovered",
+    "gitlab_history_imported": false,
+    "gitlab_commit_count_observed_not_imported": 249,
+    "source_at_exact_submission_time_established": false,
+    "source_snapshot_tags": {
+      "refs/tags/archive/gitlab-report-dc62413f": {
+        "tag_object": "6965d1517ee76e2d3d97a6b4dccb2f078757c7c1",
+        "commit": "2a3d18f70fd8c23e32ded1ad5f0cfce02d88c717"
+      },
+      "refs/tags/archive/gitlab-latest-d503d6b7": {
+        "tag_object": "c764081499ac29c4186cc2c355b753ac46dca9f7",
+        "commit": "04492c406f457bb52d21aed5b7c450be61a1c856"
+      }
+    },
     "canonical_report_sha256": "1cded5fef40262c3e30cb883781ca83a682f3e64c261ccac4e75fd23e37cdc37"
-  },
-  {
-    "repository": "yongjiang-niuniu/COMP",
-    "url": "https://github.com/yongjiang-niuniu/COMP",
-    "visibility": "public",
-    "head": "77be1409b5c595a9b9fa7d7579f4ba2738f6d6ef",
-    "kind": "existing_project_documentation",
-    "source_head": "4596d8867a7ced9994ec9b2e90e702a61c38f09d",
-    "new_commits": [
-      {
-        "sha": "deba3e3b67358d03a16eae8c67d73151e068bda2",
-        "message": "docs: clarify Java language model features and build steps",
-        "url": "https://github.com/yongjiang-niuniu/COMP/commit/deba3e3b67358d03a16eae8c67d73151e068bda2"
-      },
-      {
-        "sha": "77be1409b5c595a9b9fa7d7579f4ba2738f6d6ef",
-        "message": "docs: explain hash table design and prediction limits",
-        "url": "https://github.com/yongjiang-niuniu/COMP/commit/77be1409b5c595a9b9fa7d7579f4ba2738f6d6ef"
-      }
-    ],
-    "description": "Java Swing n-gram language model with custom hash tables, collision visualizations, and bigram/trigram text prediction."
-  },
-  {
-    "repository": "yongjiang-niuniu/cider-100",
-    "url": "https://github.com/yongjiang-niuniu/cider-100",
-    "visibility": "public",
-    "head": "86b7d485cc56b79da22be990e5bb9ba35525c642",
-    "kind": "existing_project_documentation",
-    "source_head": "a6cd0c577b1a2e39feee146de5214f630f81addd",
-    "new_commits": [
-      {
-        "sha": "bf04cfee00cceb8e3ac6d90f1b62ea579136a510",
-        "message": "docs: introduce CIFAR-100 notebook experiments",
-        "url": "https://github.com/yongjiang-niuniu/cider-100/commit/bf04cfee00cceb8e3ac6d90f1b62ea579136a510"
-      },
-      {
-        "sha": "86b7d485cc56b79da22be990e5bb9ba35525c642",
-        "message": "docs: record reproducibility gaps and metric limitations",
-        "url": "https://github.com/yongjiang-niuniu/cider-100/commit/86b7d485cc56b79da22be990e5bb9ba35525c642"
-      }
-    ],
-    "description": "Archived PyTorch CIFAR-100 experiments with ResNet and ViT, training notebooks, and documented reproducibility limitations."
-  },
-  {
-    "repository": "yongjiang-niuniu/evrp-perturbation-study",
-    "url": "https://github.com/yongjiang-niuniu/evrp-perturbation-study",
-    "visibility": "private",
-    "head": "c6c3ae7b4c76802e495fe9fa5f98258060f59f9d",
-    "kind": "report_archive",
-    "new_commits": [
-      {
-        "sha": "c6c3ae7b4c76802e495fe9fa5f98258060f59f9d",
-        "message": "docs: explain EVRP methods, recovery scope and evidence limits",
-        "author_date": "2026-09-08T23:41:56Z"
-      },
-      {
-        "sha": "9d2aa4b5b78c317d929c1e219c1c196886d99c4f",
-        "message": "archive: preserve original EVRP research report with provenance",
-        "author_date": "2026-09-08T23:41:56Z"
-      }
-    ],
-    "report_sha256": "81fa3163f9b8473c0096a869ea69d96bcb3af117e16bbe21380a9c86aa6b951c",
-    "description": "EVRP research report; implementation and raw experiments not recovered."
   },
   {
     "repository": "yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05",
     "url": "https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05",
     "visibility": "private",
     "head": "71d868c9e77d61e2ebd0e7c0500a7bd3ffe97690",
-    "kind": "classroom_archive",
-    "title": "COM6523 Final Project: YARL Software Reengineering",
+    "kind": "classroom_final_project_archive",
+    "course": "COM6523",
+    "title": "YARL 软件重构最终项目",
+    "description": "团队最终报告、源码、分析材料、报告与代码对应指南及原课堂 Git 历史已保存。",
     "source_repository": "https://github.com/TUOS-COM-Reengineering-2026/group-project-pg_05",
     "source_branches": {
       "main": "090d39f005a881a68ade8c62983ee2420d590bd1"
     },
     "source_tags": {},
-    "description": "COM6523 final team project: canonical Blackboard report, report-to-source evidence guide, preserved URL refactoring and reproducibility instructions.",
+    "original_commits": 40,
     "new_commits": [
       {
         "sha": "c7f7f22599aa5b58145152fea163e1430144106d",
         "message": "docs: document coursework outcomes, usage and archive provenance",
+        "author_date": "2026-09-09T07:45:37+08:00",
         "url": "https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/c7f7f22599aa5b58145152fea163e1430144106d"
       },
       {
         "sha": "f063396394096fe43a78ff294050c324478f7f9e",
         "message": "docs: preserve local final-report copy with checksummed provenance",
+        "author_date": "2026-09-09T07:45:37+08:00",
         "url": "https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/f063396394096fe43a78ff294050c324478f7f9e"
       },
       {
         "sha": "b7497f35204e999dc4fc695ab9642430df73e5cc",
         "message": "chore: preserve inherited workflows as inactive archive material",
+        "author_date": "2026-09-09T07:47:29+08:00",
         "url": "https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/b7497f35204e999dc4fc695ab9642430df73e5cc"
       },
       {
         "sha": "0d77b054b9b8473a0d31a8cee987ca3493557ca9",
         "message": "chore: preserve upstream dependency updater as inactive archive material",
+        "author_date": "2026-09-09T07:51:21+08:00",
         "url": "https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/0d77b054b9b8473a0d31a8cee987ca3493557ca9"
       },
       {
@@ -172,47 +131,324 @@
         "url": "https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/71d868c9e77d61e2ebd0e7c0500a7bd3ffe97690"
       }
     ],
-    "original_commits": 40,
     "canonical_report_sha256": "de0b49b299663d7dc180f24d015b760ee9c024c6326ee124c6d1e3584e7a659c",
-    "blackboard_final_report_verified": true
+    "blackboard_final_report_verified": true,
+    "verification_source": "_audit/blackboard/course_inventory.json"
+  },
+  {
+    "repository": "yongjiang-niuniu/COMP",
+    "url": "https://github.com/yongjiang-niuniu/COMP",
+    "visibility": "private",
+    "head": "a78a60c4dccc9b9c697eb528127713ee922ce9a2",
+    "kind": "official_coursework_archive",
+    "course": "COM6516",
+    "title": "Java 统计语言模型",
+    "description": "正式报告和原始提交 ZIP 已补入 COMP；7 份 Java 源码核对一致。保留 Java 25 编译文件，运行前按说明重新编译源码。",
+    "new_commits": [
+      {
+        "sha": "deba3e3b67358d03a16eae8c67d73151e068bda2",
+        "message": "docs: clarify Java language model features and build steps",
+        "author_date": "2026-09-09T07:42:29+08:00",
+        "url": "https://github.com/yongjiang-niuniu/COMP/commit/deba3e3b67358d03a16eae8c67d73151e068bda2"
+      },
+      {
+        "sha": "77be1409b5c595a9b9fa7d7579f4ba2738f6d6ef",
+        "message": "docs: explain hash table design and prediction limits",
+        "author_date": "2026-09-09T07:42:29+08:00",
+        "url": "https://github.com/yongjiang-niuniu/COMP/commit/77be1409b5c595a9b9fa7d7579f4ba2738f6d6ef"
+      },
+      {
+        "sha": "3510dd09eb5fd13651e4bf8eb35747dc7418cce8",
+        "message": "archive: preserve official COM6516 submission and final report",
+        "author_date": "2026-09-09T19:09:06+08:00",
+        "url": "https://github.com/yongjiang-niuniu/COMP/commit/3510dd09eb5fd13651e4bf8eb35747dc7418cce8"
+      },
+      {
+        "sha": "a78a60c4dccc9b9c697eb528127713ee922ce9a2",
+        "message": "docs: document final submission evidence and source rebuild requirements",
+        "author_date": "2026-09-09T19:10:06+08:00",
+        "url": "https://github.com/yongjiang-niuniu/COMP/commit/a78a60c4dccc9b9c697eb528127713ee922ce9a2"
+      }
+    ],
+    "verification_source": "_audit/com6516_publication.json",
+    "verification_receipt_sha256": "0bfd84fbaedded653f061ef51f61de7d3366be240ce386ed007fb2df994243de",
+    "remote_head_and_files_verified": true,
+    "source_head": "4596d8867a7ced9994ec9b2e90e702a61c38f09d",
+    "original_source_unchanged": true,
+    "canonical_report_sha256": "52ab32c0464c8a7eec381743005f2b1b123f03bcbfea837e6d37efea053c98a4"
+  },
+  {
+    "repository": "yongjiang-niuniu/com6115-sentiment-analysis",
+    "url": "https://github.com/yongjiang-niuniu/com6115-sentiment-analysis",
+    "visibility": "private",
+    "head": "a0321db6d1b17bbda93b1791a156d84b7e1eb66e",
+    "kind": "official_coursework_archive",
+    "course": "COM6115",
+    "title": "情感分析",
+    "description": "正式报告、原始 Sentiment.py、6 份课程数据、官方起始代码及说明已保存；默认脚本已受控跑通，使用本次新随机划分。",
+    "new_commits": [
+      {
+        "sha": "fdb3267d387dba297e241dba482e944ee7cec09b",
+        "message": "archive: preserve official COM6115 sentiment analysis submission",
+        "author_date": "2026-09-09T19:05:48+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/fdb3267d387dba297e241dba482e944ee7cec09b"
+      },
+      {
+        "sha": "fbd6837880bc78899a1929a50e3757f1616c0b06",
+        "message": "archive: recover original public Rotten Tomatoes polarity data",
+        "author_date": "2026-09-09T19:05:48+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/fbd6837880bc78899a1929a50e3757f1616c0b06"
+      },
+      {
+        "sha": "bc6c65ca5ad564787d8f1e709d2035a8129c308b",
+        "message": "docs: explain sentiment models, data requirements and evidence scope",
+        "author_date": "2026-09-09T19:10:04+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/bc6c65ca5ad564787d8f1e709d2035a8129c308b"
+      },
+      {
+        "sha": "21ba61e813688f102aa32f660bb12675d4d9bbb6",
+        "message": "archive: recover complete official COM6115 course dependencies",
+        "author_date": "2026-09-09T19:11:51+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/21ba61e813688f102aa32f660bb12675d4d9bbb6"
+      },
+      {
+        "sha": "a0321db6d1b17bbda93b1791a156d84b7e1eb66e",
+        "message": "docs: document complete data recovery and verified submitted workflow",
+        "author_date": "2026-09-09T19:14:59+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/a0321db6d1b17bbda93b1791a156d84b7e1eb66e"
+      }
+    ],
+    "verification_source": "_audit/com6115/publication_receipt.json",
+    "verification_receipt_sha256": "d053cb9a85cf8b69654cf70db585b62ac20a11be8a1ff609b81c729c15169393",
+    "remote_head_and_files_verified": true,
+    "historical_report_metrics_reproduced": false,
+    "course_data_files_recovered": 6
+  },
+  {
+    "repository": "yongjiang-niuniu/com6521-parallel-computing",
+    "url": "https://github.com/yongjiang-niuniu/com6521-parallel-computing",
+    "visibility": "private",
+    "head": "b74a521e3f460cefd67189a298c7ef930ad421bc",
+    "kind": "official_coursework_archive",
+    "course": "COM6521",
+    "title": "OpenMP 与 CUDA 并行计算",
+    "description": "正式 ZIP、学生源码、7 页报告和经官方上游校验的 v7 框架已保存；512 种局部窗口分类核对通过，完整 GPU 基准未重跑。",
+    "new_commits": [
+      {
+        "sha": "4738d7def5cb0e47a98388d89acabc25a8138e41",
+        "message": "archive: preserve official COM6521 OpenMP and CUDA submission",
+        "author_date": "2026-09-09T18:56:53+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/4738d7def5cb0e47a98388d89acabc25a8138e41"
+      },
+      {
+        "sha": "5393dc78269c8d8e8504d27264eeb033bee0996b",
+        "message": "archive: restore verified course framework around submitted implementations",
+        "author_date": "2026-09-09T19:05:43+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/5393dc78269c8d8e8504d27264eeb033bee0996b"
+      },
+      {
+        "sha": "b74a521e3f460cefd67189a298c7ef930ad421bc",
+        "message": "docs: explain parallel algorithms, build workflow and evidence limits",
+        "author_date": "2026-09-09T19:05:43+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/b74a521e3f460cefd67189a298c7ef930ad421bc"
+      }
+    ],
+    "verification_source": "_audit/com6521_publication.json",
+    "verification_receipt_sha256": "4246d9941b51c76235dd31465dc250660f1b7566c7b835f6ebe759097f5a9670",
+    "remote_head_and_files_verified": true
+  },
+  {
+    "repository": "yongjiang-niuniu/com6009-natural-systems-modelling",
+    "url": "https://github.com/yongjiang-niuniu/com6009-natural-systems-modelling",
+    "visibility": "private",
+    "head": "43534f8b684de756db8ae98d2fbbf2a1a8a9178d",
+    "kind": "official_coursework_archive",
+    "course": "COM6009",
+    "title": "自然系统建模报告",
+    "description": "正式 3 页个人报告已保存，涵盖 Duffing 振子、草兔狐主体模型和捕捞模型；未恢复模拟源码。",
+    "new_commits": [
+      {
+        "sha": "844e0b978be99525b6dba63df63cc54810c04d79",
+        "message": "archive: preserve official COM6009 individual assignment report",
+        "author_date": "2026-09-09T18:53:51+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6009-natural-systems-modelling/commit/844e0b978be99525b6dba63df63cc54810c04d79"
+      },
+      {
+        "sha": "ebd08c945e52635b4a2506c6b60a056fbcd03c85",
+        "message": "docs: explain nonlinear and ecological modelling coursework",
+        "author_date": "2026-09-09T18:53:51+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6009-natural-systems-modelling/commit/ebd08c945e52635b4a2506c6b60a056fbcd03c85"
+      },
+      {
+        "sha": "43534f8b684de756db8ae98d2fbbf2a1a8a9178d",
+        "message": "docs: record model parameters and reproduction requirements",
+        "author_date": "2026-09-09T18:53:51+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6009-natural-systems-modelling/commit/43534f8b684de756db8ae98d2fbbf2a1a8a9178d"
+      }
+    ],
+    "verification_source": "_audit/com6009_publication.json",
+    "verification_receipt_sha256": "4655dd671d7a2a2fb60ffc66eaa0f55ea343680462bfb723c6a94448647a0f48",
+    "remote_head_and_files_verified": true,
+    "original_simulation_source_recovered": false
+  },
+  {
+    "repository": "yongjiang-niuniu/com6503-3d-computer-graphics",
+    "url": "https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics",
+    "visibility": "private",
+    "head": "661c151fe12e04f64a096e2c2f06f975a7ae6fa9",
+    "kind": "official_coursework_archive",
+    "course": "COM6503",
+    "title": "3D 图形学课程项目",
+    "description": "作业 1 的 C++/OpenGL 蜂场景源码、资源和原始 ZIP 已保存；作业 2 论文已确认提交，原 PDF 仍待 Turnitin 条款确认后下载。",
+    "new_commits": [
+      {
+        "sha": "eb31c8bc3edca069d9ce6e3148248ca511d1ef51",
+        "message": "archive: preserve official COM6503 interactive graphics submission",
+        "author_date": "2026-09-09T19:10:33+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/eb31c8bc3edca069d9ce6e3148248ca511d1ef51"
+      },
+      {
+        "sha": "661c151fe12e04f64a096e2c2f06f975a7ae6fa9",
+        "message": "docs: explain graphics project setup and document pending second submission",
+        "author_date": "2026-09-09T19:16:55+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/661c151fe12e04f64a096e2c2f06f975a7ae6fa9"
+      }
+    ],
+    "verification_source": "_audit/com6503_publication.json",
+    "verification_receipt_sha256": "319e001164e30e9a5caba4677328c59873705f2f81ec51b5fa77365804df4de6",
+    "remote_head_and_files_verified": true,
+    "course_recovery_complete": false,
+    "assignment2_original_pdf_recovered": false
+  },
+  {
+    "repository": "yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems",
+    "url": "https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems",
+    "visibility": "public",
+    "head": "341480b25749eb2af9f0a3760d1604d16f64a8b9",
+    "kind": "existing_project_documentation",
+    "source_head": "8ae4318369edf4b72827225fa61dd371a75b703f",
+    "description": "已有 GitHub 模拟配置、工作负载和分析快照；研究仍在进行。Blackboard 毕业论文、代码等 5 个最终提交入口均未提交。",
+    "new_commits": [
+      {
+        "sha": "a4ecf5455f341929dfd397877bf7d4e522aba177",
+        "message": "docs: explain HPC energy workflow and archived results",
+        "author_date": "2026-09-09T07:42:29+08:00",
+        "url": "https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems/commit/a4ecf5455f341929dfd397877bf7d4e522aba177"
+      },
+      {
+        "sha": "341480b25749eb2af9f0a3760d1604d16f64a8b9",
+        "message": "docs: document simulator reproduction prerequisites and energy model",
+        "author_date": "2026-09-09T07:42:29+08:00",
+        "url": "https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems/commit/341480b25749eb2af9f0a3760d1604d16f64a8b9"
+      }
+    ],
+    "verification_source": "_audit/github_docs_results.json",
+    "title": "HPC 能耗与碳排放研究",
+    "course": "COM6906",
+    "official_final_submission": false
   },
   {
     "repository": "yongjiang-niuniu/academic-project-portfolio",
     "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio",
     "visibility": "public",
+    "head": "2aa432bdef32874b9aa35b7e2ad9d86d03b13634",
     "kind": "public_portfolio",
-    "head": "4deed8212ddbff773c480c8374f881a3a1a0e8d4",
+    "title": "公开项目作品集",
+    "description": "对外展示项目概览；课堂原件与团队材料保存在对应私有档案。",
     "new_commits": [
       {
         "sha": "20f62ecfbaa5797bb1af400731c241bba76a188c",
         "message": "docs: introduce evidence-based academic project portfolio",
+        "author_date": "2026-09-09T07:38:53+08:00",
         "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/20f62ecfbaa5797bb1af400731c241bba76a188c"
       },
       {
         "sha": "55a463aad8c26d6f63235d0ab2f5f43511e6527f",
         "message": "docs: add provenance and independent backup maintenance guide",
+        "author_date": "2026-09-09T07:38:53+08:00",
         "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/55a463aad8c26d6f63235d0ab2f5f43511e6527f"
       },
       {
         "sha": "02155113ee1bcd79edbb4cb2620c039be2475952",
         "message": "docs: add recovered EVRP research summary with artifact status",
+        "author_date": "2026-09-09T07:44:07+08:00",
         "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/02155113ee1bcd79edbb4cb2620c039be2475952"
       },
       {
         "sha": "77e119828bd41f7c5aa17beaeee6111ef6070e46",
         "message": "docs: describe team reengineering work and clarify archive coverage",
+        "author_date": "2026-09-09T07:46:23+08:00",
         "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/77e119828bd41f7c5aa17beaeee6111ef6070e46"
       },
       {
         "sha": "b58826652b5d19b6c366b6f7fe7ee82285f08544",
         "message": "docs: require complete history and independent backup restoration",
+        "author_date": "2026-09-09T07:55:11+08:00",
         "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/b58826652b5d19b6c366b6f7fe7ee82285f08544"
       },
       {
         "sha": "4deed8212ddbff773c480c8374f881a3a1a0e8d4",
         "message": "docs: focus the portfolio on verified final project submissions",
+        "author_date": "2026-09-09T08:48:46+08:00",
         "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/4deed8212ddbff773c480c8374f881a3a1a0e8d4"
+      },
+      {
+        "sha": "2aa432bdef32874b9aa35b7e2ad9d86d03b13634",
+        "message": "docs: catalogue recovered final projects and complete course review",
+        "author_date": "2026-09-09T19:18:41+08:00",
+        "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/2aa432bdef32874b9aa35b7e2ad9d86d03b13634"
       }
-    ]
+    ],
+    "verification_source": "GitHub published main ref read during catalogue generation"
+  },
+  {
+    "repository": "yongjiang-niuniu/cider-100",
+    "url": "https://github.com/yongjiang-niuniu/cider-100",
+    "visibility": "public",
+    "head": "86b7d485cc56b79da22be990e5bb9ba35525c642",
+    "kind": "existing_project_documentation",
+    "source_head": "a6cd0c577b1a2e39feee146de5214f630f81addd",
+    "description": "ResNet 与 Vision Transformer 训练笔记本，保留原实验输出及可复现性限制说明；未将其冒认为已核实的 Blackboard 最终提交。",
+    "new_commits": [
+      {
+        "sha": "bf04cfee00cceb8e3ac6d90f1b62ea579136a510",
+        "message": "docs: introduce CIFAR-100 notebook experiments",
+        "author_date": "2026-09-09T07:42:29+08:00",
+        "url": "https://github.com/yongjiang-niuniu/cider-100/commit/bf04cfee00cceb8e3ac6d90f1b62ea579136a510"
+      },
+      {
+        "sha": "86b7d485cc56b79da22be990e5bb9ba35525c642",
+        "message": "docs: record reproducibility gaps and metric limitations",
+        "author_date": "2026-09-09T07:42:29+08:00",
+        "url": "https://github.com/yongjiang-niuniu/cider-100/commit/86b7d485cc56b79da22be990e5bb9ba35525c642"
+      }
+    ],
+    "verification_source": "_audit/github_docs_results.json",
+    "title": "CIFAR-100 分类实验"
+  },
+  {
+    "repository": "yongjiang-niuniu/evrp-perturbation-study",
+    "url": "https://github.com/yongjiang-niuniu/evrp-perturbation-study",
+    "visibility": "private",
+    "head": "c6c3ae7b4c76802e495fe9fa5f98258060f59f9d",
+    "kind": "report_archive",
+    "title": "EVRP 路径优化研究",
+    "new_commits": [
+      {
+        "sha": "9d2aa4b5b78c317d929c1e219c1c196886d99c4f",
+        "message": "archive: preserve original EVRP research report with provenance",
+        "author_date": "2026-09-09T07:41:56+08:00",
+        "url": "https://github.com/yongjiang-niuniu/evrp-perturbation-study/commit/9d2aa4b5b78c317d929c1e219c1c196886d99c4f"
+      },
+      {
+        "sha": "c6c3ae7b4c76802e495fe9fa5f98258060f59f9d",
+        "message": "docs: explain EVRP methods, recovery scope and evidence limits",
+        "author_date": "2026-09-09T07:41:56+08:00",
+        "url": "https://github.com/yongjiang-niuniu/evrp-perturbation-study/commit/c6c3ae7b4c76802e495fe9fa5f98258060f59f9d"
+      }
+    ],
+    "report_sha256": "81fa3163f9b8473c0096a869ea69d96bcb3af117e16bbe21380a9c86aa6b951c",
+    "description": "原始研究报告已保存；实现代码、原始实验记录和基准文件尚未恢复。",
+    "verification_source": "_audit/evrp_publication.json"
   }
 ]

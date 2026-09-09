@@ -1,11 +1,6 @@
-# 整理提交历史记录
+# 当前项目的实际整理提交
 
-这些提交对应实际归档或文档变更，使用整理时的真实时间。原历史提交未在这里重复列出。本文件保留早期整理记录，不作为当前项目展示清单；其中每周练习已移出活动目录，删除进度见 [history/README.md](history/README.md)。
-
-## yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems
-
-- [`a4ecf545`](https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems/commit/a4ecf5455f341929dfd397877bf7d4e522aba177) — docs: explain HPC energy workflow and archived results
-- [`341480b2`](https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems/commit/341480b25749eb2af9f0a3760d1604d16f64a8b9) — docs: document simulator reproduction prerequisites and energy model
+以下只列归档和说明过程中真实完成的提交，保留原日期与作者；原项目历史没有重复计入。目录自身的历史见 GitHub。已移出展示的练习保存在 [历史台账](history/WEEKLY_COMMITS.md)。
 
 ## yongjiang-niuniu/team
 
@@ -13,21 +8,9 @@
 - [`5b641c8d`](https://github.com/yongjiang-niuniu/team/commit/5b641c8d57e00d64a2948406ac50e0597f534464) — docs: document collection request API and role workflow
 - [`0ac99b5a`](https://github.com/yongjiang-niuniu/team/commit/0ac99b5a18e4a00bc4b03ddc9cc9c9fe5439a880) — archive: preserve the official COM6103 final report and submission receipt
 - [`88dcfd26`](https://github.com/yongjiang-niuniu/team/commit/88dcfd26e344ee855bd2dbed646f417a6b55463d) — docs: connect the final submission to historical code and recovery gaps
-
-## yongjiang-niuniu/COMP
-
-- [`deba3e3b`](https://github.com/yongjiang-niuniu/COMP/commit/deba3e3b67358d03a16eae8c67d73151e068bda2) — docs: clarify Java language model features and build steps
-- [`77be1409`](https://github.com/yongjiang-niuniu/COMP/commit/77be1409b5c595a9b9fa7d7579f4ba2738f6d6ef) — docs: explain hash table design and prediction limits
-
-## yongjiang-niuniu/cider-100
-
-- [`bf04cfee`](https://github.com/yongjiang-niuniu/cider-100/commit/bf04cfee00cceb8e3ac6d90f1b62ea579136a510) — docs: introduce CIFAR-100 notebook experiments
-- [`86b7d485`](https://github.com/yongjiang-niuniu/cider-100/commit/86b7d485cc56b79da22be990e5bb9ba35525c642) — docs: record reproducibility gaps and metric limitations
-
-## yongjiang-niuniu/evrp-perturbation-study
-
-- [`c6c3ae7b`](https://github.com/yongjiang-niuniu/evrp-perturbation-study/commit/c6c3ae7b4c76802e495fe9fa5f98258060f59f9d) — docs: explain EVRP methods, recovery scope and evidence limits
-- [`9d2aa4b5`](https://github.com/yongjiang-niuniu/evrp-perturbation-study/commit/9d2aa4b5b78c317d929c1e219c1c196886d99c4f) — archive: preserve original EVRP research report with provenance
+- [`2a3d18f7`](https://github.com/yongjiang-niuniu/team/commit/2a3d18f70fd8c23e32ded1ad5f0cfce02d88c717) — archive: recover report-added eWaste GitLab snapshot
+- [`04492c40`](https://github.com/yongjiang-niuniu/team/commit/04492c406f457bb52d21aed5b7c450be61a1c856) — archive: recover latest eWaste GitLab source snapshot
+- [`80171ddf`](https://github.com/yongjiang-niuniu/team/commit/80171ddfb3fa030c239c858fb55d97b8625bbe4f) — docs: explain recovered eWaste versions and verified prototype scope
 
 ## yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05
 
@@ -39,51 +22,42 @@
 - [`64feb8d3`](https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/64feb8d3d7b4a0453df46b0ab09239e97b30770e) — docs: verify canonical report against Blackboard final submission
 - [`71d868c9`](https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/71d868c9e77d61e2ebd0e7c0500a7bd3ffe97690) — docs: explain final project setup and evidence-preserving reproduction
 
-## yongjiang-niuniu/com6523-2026-week1-python-git-setup
+## yongjiang-niuniu/COMP
 
-- [`b11a1252`](https://github.com/yongjiang-niuniu/com6523-2026-week1-python-git-setup/commit/b11a1252bde5c1a2b52daff1dade84ef925033e7) — docs: document coursework outcomes, usage and archive provenance
-- [`76a2bce8`](https://github.com/yongjiang-niuniu/com6523-2026-week1-python-git-setup/commit/76a2bce896d8a82000be93d801189590e84f6f15) — chore: preserve inherited workflows as inactive archive material
+- [`deba3e3b`](https://github.com/yongjiang-niuniu/COMP/commit/deba3e3b67358d03a16eae8c67d73151e068bda2) — docs: clarify Java language model features and build steps
+- [`77be1409`](https://github.com/yongjiang-niuniu/COMP/commit/77be1409b5c595a9b9fa7d7579f4ba2738f6d6ef) — docs: explain hash table design and prediction limits
+- [`3510dd09`](https://github.com/yongjiang-niuniu/COMP/commit/3510dd09eb5fd13651e4bf8eb35747dc7418cce8) — archive: preserve official COM6516 submission and final report
+- [`a78a60c4`](https://github.com/yongjiang-niuniu/COMP/commit/a78a60c4dccc9b9c697eb528127713ee922ce9a2) — docs: document final submission evidence and source rebuild requirements
 
-## yongjiang-niuniu/com6523-2026-week2-black-system-analysis
+## yongjiang-niuniu/com6115-sentiment-analysis
 
-- [`de94b5b9`](https://github.com/yongjiang-niuniu/com6523-2026-week2-black-system-analysis/commit/de94b5b95f7bb334018e10b44e5bb53a4c4ba903) — docs: document coursework outcomes, usage and archive provenance
-- [`241c413f`](https://github.com/yongjiang-niuniu/com6523-2026-week2-black-system-analysis/commit/241c413fbc7b6281e050c7a82ba66e77e663f6ca) — chore: preserve inherited workflows as inactive archive material
+- [`fdb3267d`](https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/fdb3267d387dba297e241dba482e944ee7cec09b) — archive: preserve official COM6115 sentiment analysis submission
+- [`fbd68378`](https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/fbd6837880bc78899a1929a50e3757f1616c0b06) — archive: recover original public Rotten Tomatoes polarity data
+- [`bc6c65ca`](https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/bc6c65ca5ad564787d8f1e709d2035a8129c308b) — docs: explain sentiment models, data requirements and evidence scope
+- [`21ba61e8`](https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/21ba61e813688f102aa32f660bb12675d4d9bbb6) — archive: recover complete official COM6115 course dependencies
+- [`a0321db6`](https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/a0321db6d1b17bbda93b1791a156d84b7e1eb66e) — docs: document complete data recovery and verified submitted workflow
 
-## yongjiang-niuniu/com6523-2026-week3-yarl-repository-mining-pg-05
+## yongjiang-niuniu/com6521-parallel-computing
 
-- [`e607bf5f`](https://github.com/yongjiang-niuniu/com6523-2026-week3-yarl-repository-mining-pg-05/commit/e607bf5fec0fdf854c9dcb279355e41f6c1347cc) — docs: document coursework outcomes, usage and archive provenance
-- [`f25bf433`](https://github.com/yongjiang-niuniu/com6523-2026-week3-yarl-repository-mining-pg-05/commit/f25bf4330e6351824d86f6c6c8c07faf92ce268f) — chore: preserve inherited workflows as inactive archive material
+- [`4738d7de`](https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/4738d7def5cb0e47a98388d89acabc25a8138e41) — archive: preserve official COM6521 OpenMP and CUDA submission
+- [`5393dc78`](https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/5393dc78269c8d8e8504d27264eeb033bee0996b) — archive: restore verified course framework around submitted implementations
+- [`b74a521e`](https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/b74a521e3f460cefd67189a298c7ef930ad421bc) — docs: explain parallel algorithms, build workflow and evidence limits
 
-## yongjiang-niuniu/com6523-2026-week4-pygame-static-analysis-pg-05
+## yongjiang-niuniu/com6009-natural-systems-modelling
 
-- [`f791e1bd`](https://github.com/yongjiang-niuniu/com6523-2026-week4-pygame-static-analysis-pg-05/commit/f791e1bd677da79883e24d02963503af5e782695) — docs: document coursework outcomes, usage and archive provenance
-- [`c071bca3`](https://github.com/yongjiang-niuniu/com6523-2026-week4-pygame-static-analysis-pg-05/commit/c071bca3694ac65fa83303719be6d63e596467c2) — chore: preserve inherited workflows as inactive archive material
-- [`59430e88`](https://github.com/yongjiang-niuniu/com6523-2026-week4-pygame-static-analysis-pg-05/commit/59430e88eeed67a71fef61ee33609783fce31655) — chore: preserve inherited workflows as inactive archive material
+- [`844e0b97`](https://github.com/yongjiang-niuniu/com6009-natural-systems-modelling/commit/844e0b978be99525b6dba63df63cc54810c04d79) — archive: preserve official COM6009 individual assignment report
+- [`ebd08c94`](https://github.com/yongjiang-niuniu/com6009-natural-systems-modelling/commit/ebd08c945e52635b4a2506c6b60a056fbcd03c85) — docs: explain nonlinear and ecological modelling coursework
+- [`43534f8b`](https://github.com/yongjiang-niuniu/com6009-natural-systems-modelling/commit/43534f8b684de756db8ae98d2fbbf2a1a8a9178d) — docs: record model parameters and reproduction requirements
 
-## yongjiang-niuniu/com6523-2026-week5-yarl-dynamic-analysis-pg-05
+## yongjiang-niuniu/com6503-3d-computer-graphics
 
-- [`be61d4af`](https://github.com/yongjiang-niuniu/com6523-2026-week5-yarl-dynamic-analysis-pg-05/commit/be61d4af3a1ef44d3e095c870d4525666acc276e) — docs: document coursework outcomes, usage and archive provenance
-- [`eb784c5f`](https://github.com/yongjiang-niuniu/com6523-2026-week5-yarl-dynamic-analysis-pg-05/commit/eb784c5fd2c416538fbb0162c919d241aea6f594) — chore: preserve inherited workflows as inactive archive material
+- [`eb31c8bc`](https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/eb31c8bc3edca069d9ce6e3148248ca511d1ef51) — archive: preserve official COM6503 interactive graphics submission
+- [`661c151f`](https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/661c151fe12e04f64a096e2c2f06f975a7ae6fa9) — docs: explain graphics project setup and document pending second submission
 
-## yongjiang-niuniu/com6523-2026-week6-regression-testing
+## yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems
 
-- [`0c364f64`](https://github.com/yongjiang-niuniu/com6523-2026-week6-regression-testing/commit/0c364f643a4b530b285f994705a0fc6ae303b884) — docs: document coursework outcomes, usage and archive provenance
-- [`8e46e34b`](https://github.com/yongjiang-niuniu/com6523-2026-week6-regression-testing/commit/8e46e34bb0941c1abeee189ce1c8e23f995d2fe4) — chore: preserve inherited workflows as inactive archive material
-
-## yongjiang-niuniu/com6523-2026-week7-code-clones-pg-05
-
-- [`346d28f1`](https://github.com/yongjiang-niuniu/com6523-2026-week7-code-clones-pg-05/commit/346d28f17f768e69fb0a650cb6bb29b5938480e6) — docs: document coursework outcomes, usage and archive provenance
-- [`48bc7669`](https://github.com/yongjiang-niuniu/com6523-2026-week7-code-clones-pg-05/commit/48bc766910250dbc4903552ff949823836e9531e) — chore: preserve inherited workflows as inactive archive material
-
-## yongjiang-niuniu/com6523-2026-week8-refactoring-pg-05
-
-- [`e6f41adc`](https://github.com/yongjiang-niuniu/com6523-2026-week8-refactoring-pg-05/commit/e6f41adc069f10dc2a43052c1e72757139fc4c2f) — docs: document coursework outcomes, usage and archive provenance
-- [`94207f6b`](https://github.com/yongjiang-niuniu/com6523-2026-week8-refactoring-pg-05/commit/94207f6b412e3b6a82be2dd9a7032e3d105116c8) — chore: preserve inherited workflows as inactive archive material
-
-## yongjiang-niuniu/com6523-2026-week9-banking-responsibilities-pg-05
-
-- [`d2ced40a`](https://github.com/yongjiang-niuniu/com6523-2026-week9-banking-responsibilities-pg-05/commit/d2ced40a65bce97d7c62225e9492f2e8add71113) — docs: document coursework outcomes, usage and archive provenance
-- [`23c7ef8b`](https://github.com/yongjiang-niuniu/com6523-2026-week9-banking-responsibilities-pg-05/commit/23c7ef8b8dcd73c1953fa633b3b9e309639a03a3) — chore: preserve inherited workflows as inactive archive material
+- [`a4ecf545`](https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems/commit/a4ecf5455f341929dfd397877bf7d4e522aba177) — docs: explain HPC energy workflow and archived results
+- [`341480b2`](https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems/commit/341480b25749eb2af9f0a3760d1604d16f64a8b9) — docs: document simulator reproduction prerequisites and energy model
 
 ## yongjiang-niuniu/academic-project-portfolio
 
@@ -92,7 +66,15 @@
 - [`02155113`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/02155113ee1bcd79edbb4cb2620c039be2475952) — docs: add recovered EVRP research summary with artifact status
 - [`77e11982`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/77e119828bd41f7c5aa17beaeee6111ef6070e46) — docs: describe team reengineering work and clarify archive coverage
 - [`b5882665`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/b58826652b5d19b6c366b6f7fe7ee82285f08544) — docs: require complete history and independent backup restoration
-
-## 作品集最终提交索引更新
-
 - [`4deed821`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/4deed8212ddbff773c480c8374f881a3a1a0e8d4) — docs: focus the portfolio on verified final project submissions
+- [`2aa432bd`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/2aa432bdef32874b9aa35b7e2ad9d86d03b13634) — docs: catalogue recovered final projects and complete course review
+
+## yongjiang-niuniu/cider-100
+
+- [`bf04cfee`](https://github.com/yongjiang-niuniu/cider-100/commit/bf04cfee00cceb8e3ac6d90f1b62ea579136a510) — docs: introduce CIFAR-100 notebook experiments
+- [`86b7d485`](https://github.com/yongjiang-niuniu/cider-100/commit/86b7d485cc56b79da22be990e5bb9ba35525c642) — docs: record reproducibility gaps and metric limitations
+
+## yongjiang-niuniu/evrp-perturbation-study
+
+- [`9d2aa4b5`](https://github.com/yongjiang-niuniu/evrp-perturbation-study/commit/9d2aa4b5b78c317d929c1e219c1c196886d99c4f) — archive: preserve original EVRP research report with provenance
+- [`c6c3ae7b`](https://github.com/yongjiang-niuniu/evrp-perturbation-study/commit/c6c3ae7b4c76802e495fe9fa5f98258060f59f9d) — docs: explain EVRP methods, recovery scope and evidence limits
