@@ -23,8 +23,8 @@
   {
     "repository": "yongjiang-niuniu/team",
     "url": "https://github.com/yongjiang-niuniu/team",
-    "visibility": "public",
-    "head": "5b641c8d57e00d64a2948406ac50e0597f534464",
+    "visibility": "private",
+    "head": "88dcfd26e344ee855bd2dbed646f417a6b55463d",
     "kind": "existing_project_documentation",
     "source_head": "12909c9cdaa93a7eaf70041547113e5b412b1d7a",
     "new_commits": [
@@ -37,9 +37,24 @@
         "sha": "5b641c8d57e00d64a2948406ac50e0597f534464",
         "message": "docs: document collection request API and role workflow",
         "url": "https://github.com/yongjiang-niuniu/team/commit/5b641c8d57e00d64a2948406ac50e0597f534464"
+      },
+      {
+        "sha": "0ac99b5a18e4a00bc4b03ddc9cc9c9fe5439a880",
+        "message": "archive: preserve the official COM6103 final report and submission receipt",
+        "author_date": "2026-09-09T08:45:47+08:00",
+        "url": "https://github.com/yongjiang-niuniu/team/commit/0ac99b5a18e4a00bc4b03ddc9cc9c9fe5439a880"
+      },
+      {
+        "sha": "88dcfd26e344ee855bd2dbed646f417a6b55463d",
+        "message": "docs: connect the final submission to historical code and recovery gaps",
+        "author_date": "2026-09-09T08:45:47+08:00",
+        "url": "https://github.com/yongjiang-niuniu/team/commit/88dcfd26e344ee855bd2dbed646f417a6b55463d"
       }
     ],
-    "description": "Flask API for an e-waste recycling coursework project: JWT authentication, collection requests, and staff/admin workflows."
+    "description": "Private COM6103 archive preserving the official final report and a March 2026 historical backend; complete final GitLab source remains unrecovered.",
+    "final_report_archive_status": "official_report_and_submission_receipt_preserved",
+    "source_code_status": "march_2026_backend_snapshot_only_final_gitlab_source_unrecovered",
+    "canonical_report_sha256": "1cded5fef40262c3e30cb883781ca83a682f3e64c261ccac4e75fd23e37cdc37"
   },
   {
     "repository": "yongjiang-niuniu/COMP",
@@ -108,15 +123,15 @@
     "repository": "yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05",
     "url": "https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05",
     "visibility": "private",
-    "head": "0d77b054b9b8473a0d31a8cee987ca3493557ca9",
+    "head": "71d868c9e77d61e2ebd0e7c0500a7bd3ffe97690",
     "kind": "classroom_archive",
-    "title": "YARL Software Reengineering — Group PG_05",
+    "title": "COM6523 Final Project: YARL Software Reengineering",
     "source_repository": "https://github.com/TUOS-COM-Reengineering-2026/group-project-pg_05",
     "source_branches": {
       "main": "090d39f005a881a68ade8c62983ee2420d590bd1"
     },
     "source_tags": {},
-    "description": "COM6523 team archive: yarl URL refactoring, regression tests, analysis evidence and final report.",
+    "description": "COM6523 final team project: canonical Blackboard report, report-to-source evidence guide, preserved URL refactoring and reproducibility instructions.",
     "new_commits": [
       {
         "sha": "c7f7f22599aa5b58145152fea163e1430144106d",
@@ -137,265 +152,36 @@
         "sha": "0d77b054b9b8473a0d31a8cee987ca3493557ca9",
         "message": "chore: preserve upstream dependency updater as inactive archive material",
         "url": "https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/0d77b054b9b8473a0d31a8cee987ca3493557ca9"
-      }
-    ],
-    "original_commits": 40
-  },
-  {
-    "repository": "yongjiang-niuniu/com6523-2026-week1-python-git-setup",
-    "url": "https://github.com/yongjiang-niuniu/com6523-2026-week1-python-git-setup",
-    "visibility": "private",
-    "head": "76a2bce896d8a82000be93d801189590e84f6f15",
-    "kind": "classroom_archive",
-    "title": "Week 1 — Python and Git Environment Setup",
-    "source_repository": "https://github.com/TUOS-COM-Reengineering-2026/week1-initial-setup-yongjiangliu-uom",
-    "source_branches": {
-      "main": "fbc911bdd4ab2ba2824801bc8cec1ceebf039a15"
-    },
-    "source_tags": {},
-    "description": "COM6523 Week 1 archive: Python environment, Git workflow, Jupyter introduction and hello exercise.",
-    "new_commits": [
-      {
-        "sha": "b11a1252bde5c1a2b52daff1dade84ef925033e7",
-        "message": "docs: document coursework outcomes, usage and archive provenance",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week1-python-git-setup/commit/b11a1252bde5c1a2b52daff1dade84ef925033e7"
       },
       {
-        "sha": "76a2bce896d8a82000be93d801189590e84f6f15",
-        "message": "chore: preserve inherited workflows as inactive archive material",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week1-python-git-setup/commit/76a2bce896d8a82000be93d801189590e84f6f15"
-      }
-    ],
-    "original_commits": 6
-  },
-  {
-    "repository": "yongjiang-niuniu/com6523-2026-week2-black-system-analysis",
-    "url": "https://github.com/yongjiang-niuniu/com6523-2026-week2-black-system-analysis",
-    "visibility": "private",
-    "head": "241c413fbc7b6281e050c7a82ba66e77e663f6ca",
-    "kind": "classroom_archive",
-    "title": "Week 2 — Understanding the Black Code Formatter",
-    "source_repository": "https://github.com/TUOS-COM-Reengineering-2026/week2-exploring-an-unfamiliar-project-yongjiangliu-uom",
-    "source_branches": {
-      "main": "3a2a934f820803578bcf463ec94467dd284ac0c6"
-    },
-    "source_tags": {},
-    "description": "COM6523 Week 2 archive: bottom-up system comprehension of Black with notes and pyreverse diagrams.",
-    "new_commits": [
-      {
-        "sha": "de94b5b95f7bb334018e10b44e5bb53a4c4ba903",
-        "message": "docs: document coursework outcomes, usage and archive provenance",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week2-black-system-analysis/commit/de94b5b95f7bb334018e10b44e5bb53a4c4ba903"
+        "sha": "9785ca3af3359ab776c9644af1f7669987e4ce01",
+        "message": "docs: organize final yarl project around the submitted report",
+        "author_date": "2026-09-09T08:33:44+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/9785ca3af3359ab776c9644af1f7669987e4ce01"
       },
       {
-        "sha": "241c413fbc7b6281e050c7a82ba66e77e663f6ca",
-        "message": "chore: preserve inherited workflows as inactive archive material",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week2-black-system-analysis/commit/241c413fbc7b6281e050c7a82ba66e77e663f6ca"
-      }
-    ],
-    "original_commits": 6
-  },
-  {
-    "repository": "yongjiang-niuniu/com6523-2026-week3-yarl-repository-mining-pg-05",
-    "url": "https://github.com/yongjiang-niuniu/com6523-2026-week3-yarl-repository-mining-pg-05",
-    "visibility": "private",
-    "head": "f25bf4330e6351824d86f6c6c8c07faf92ce268f",
-    "kind": "classroom_archive",
-    "title": "Week 3 — Repository Mining and Code Churn",
-    "source_repository": "https://github.com/TUOS-COM-Reengineering-2026/week3-repository-mining-pg_05",
-    "source_branches": {
-      "main": "7006ba75069e5edf571903c825ea2dc5321f6090"
-    },
-    "source_tags": {},
-    "description": "COM6523 PG_05 archive: yarl repository mining, churn and bug-fix heuristics, notebooks and plots.",
-    "new_commits": [
-      {
-        "sha": "e607bf5fec0fdf854c9dcb279355e41f6c1347cc",
-        "message": "docs: document coursework outcomes, usage and archive provenance",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week3-yarl-repository-mining-pg-05/commit/e607bf5fec0fdf854c9dcb279355e41f6c1347cc"
+        "sha": "64feb8d3d7b4a0453df46b0ab09239e97b30770e",
+        "message": "docs: verify canonical report against Blackboard final submission",
+        "author_date": "2026-09-09T08:33:44+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/64feb8d3d7b4a0453df46b0ab09239e97b30770e"
       },
       {
-        "sha": "f25bf4330e6351824d86f6c6c8c07faf92ce268f",
-        "message": "chore: preserve inherited workflows as inactive archive material",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week3-yarl-repository-mining-pg-05/commit/f25bf4330e6351824d86f6c6c8c07faf92ce268f"
+        "sha": "71d868c9e77d61e2ebd0e7c0500a7bd3ffe97690",
+        "message": "docs: explain final project setup and evidence-preserving reproduction",
+        "author_date": "2026-09-09T08:33:44+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/71d868c9e77d61e2ebd0e7c0500a7bd3ffe97690"
       }
     ],
-    "original_commits": 18
-  },
-  {
-    "repository": "yongjiang-niuniu/com6523-2026-week4-pygame-static-analysis-pg-05",
-    "url": "https://github.com/yongjiang-niuniu/com6523-2026-week4-pygame-static-analysis-pg-05",
-    "visibility": "private",
-    "head": "c071bca3694ac65fa83303719be6d63e596467c2",
-    "kind": "classroom_archive",
-    "title": "Week 4 — Static Analysis of Pygame",
-    "source_repository": "https://github.com/TUOS-COM-Reengineering-2026/week4-static-analysis-pg_05",
-    "source_branches": {
-      "Yongjiang": "2006ba3d495418e2c9387ed51820f7fa4501f657",
-      "main": "2053c053b2c2bafabbef6e83eeaabbe9ec6bf8fd"
-    },
-    "source_tags": {},
-    "description": "COM6523 PG_05 archive: Pygame static analysis, complexity/cohesion metrics and preserved Yongjiang branch.",
-    "new_commits": [
-      {
-        "sha": "f791e1bd677da79883e24d02963503af5e782695",
-        "message": "docs: document coursework outcomes, usage and archive provenance",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week4-pygame-static-analysis-pg-05/commit/f791e1bd677da79883e24d02963503af5e782695"
-      },
-      {
-        "sha": "c071bca3694ac65fa83303719be6d63e596467c2",
-        "message": "chore: preserve inherited workflows as inactive archive material",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week4-pygame-static-analysis-pg-05/commit/c071bca3694ac65fa83303719be6d63e596467c2"
-      },
-      {
-        "sha": "59430e88eeed67a71fef61ee33609783fce31655",
-        "message": "chore: preserve inherited workflows as inactive archive material",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week4-pygame-static-analysis-pg-05/commit/59430e88eeed67a71fef61ee33609783fce31655"
-      }
-    ],
-    "original_commits": 5
-  },
-  {
-    "repository": "yongjiang-niuniu/com6523-2026-week5-yarl-dynamic-analysis-pg-05",
-    "url": "https://github.com/yongjiang-niuniu/com6523-2026-week5-yarl-dynamic-analysis-pg-05",
-    "visibility": "private",
-    "head": "eb784c5fd2c416538fbb0162c919d241aea6f594",
-    "kind": "classroom_archive",
-    "title": "Week 5 — Dynamic Analysis of YARL",
-    "source_repository": "https://github.com/TUOS-COM-Reengineering-2026/week5-dynamic-analysis-pg_05",
-    "source_branches": {
-      "main": "01b8ba9e1af26a0cfc9467d7f8546d954841f765"
-    },
-    "source_tags": {},
-    "description": "COM6523 PG_05 archive: yarl runtime calls, fan-in/fan-out and software reconnaissance findings.",
-    "new_commits": [
-      {
-        "sha": "be61d4af3a1ef44d3e095c870d4525666acc276e",
-        "message": "docs: document coursework outcomes, usage and archive provenance",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week5-yarl-dynamic-analysis-pg-05/commit/be61d4af3a1ef44d3e095c870d4525666acc276e"
-      },
-      {
-        "sha": "eb784c5fd2c416538fbb0162c919d241aea6f594",
-        "message": "chore: preserve inherited workflows as inactive archive material",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week5-yarl-dynamic-analysis-pg-05/commit/eb784c5fd2c416538fbb0162c919d241aea6f594"
-      }
-    ],
-    "original_commits": 5
-  },
-  {
-    "repository": "yongjiang-niuniu/com6523-2026-week6-regression-testing",
-    "url": "https://github.com/yongjiang-niuniu/com6523-2026-week6-regression-testing",
-    "visibility": "private",
-    "head": "8e46e34bb0941c1abeee189ce1c8e23f995d2fe4",
-    "kind": "classroom_archive",
-    "title": "Week 6 — Regression Testing and Branch Coverage",
-    "source_repository": "https://github.com/TUOS-COM-Reengineering-2026/week-6-lecture-prep-yongjiangliu-uom",
-    "source_branches": {
-      "main": "71dabfe657363558b3adc13b91a5b871d43de40e"
-    },
-    "source_tags": {},
-    "description": "COM6523 Week 6 archive: regression tests covering all six strange_function outcomes and branch coverage.",
-    "new_commits": [
-      {
-        "sha": "0c364f643a4b530b285f994705a0fc6ae303b884",
-        "message": "docs: document coursework outcomes, usage and archive provenance",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week6-regression-testing/commit/0c364f643a4b530b285f994705a0fc6ae303b884"
-      },
-      {
-        "sha": "8e46e34bb0941c1abeee189ce1c8e23f995d2fe4",
-        "message": "chore: preserve inherited workflows as inactive archive material",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week6-regression-testing/commit/8e46e34bb0941c1abeee189ce1c8e23f995d2fe4"
-      }
-    ],
-    "original_commits": 5
-  },
-  {
-    "repository": "yongjiang-niuniu/com6523-2026-week7-code-clones-pg-05",
-    "url": "https://github.com/yongjiang-niuniu/com6523-2026-week7-code-clones-pg-05",
-    "visibility": "private",
-    "head": "48bc766910250dbc4903552ff949823836e9531e",
-    "kind": "classroom_archive",
-    "title": "Week 7 — Code Clones and Unnecessary Code",
-    "source_repository": "https://github.com/TUOS-COM-Reengineering-2026/week-7-unnecessary-code-pg_05",
-    "source_branches": {
-      "main": "8738087ad01b701fb106283af8a3dccb35ed1153"
-    },
-    "source_tags": {},
-    "description": "COM6523 PG_05 archive: line-based Jaccard similarity, textual dot plots and dead-code removal.",
-    "new_commits": [
-      {
-        "sha": "346d28f17f768e69fb0a650cb6bb29b5938480e6",
-        "message": "docs: document coursework outcomes, usage and archive provenance",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week7-code-clones-pg-05/commit/346d28f17f768e69fb0a650cb6bb29b5938480e6"
-      },
-      {
-        "sha": "48bc766910250dbc4903552ff949823836e9531e",
-        "message": "chore: preserve inherited workflows as inactive archive material",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week7-code-clones-pg-05/commit/48bc766910250dbc4903552ff949823836e9531e"
-      }
-    ],
-    "original_commits": 5
-  },
-  {
-    "repository": "yongjiang-niuniu/com6523-2026-week8-refactoring-pg-05",
-    "url": "https://github.com/yongjiang-niuniu/com6523-2026-week8-refactoring-pg-05",
-    "visibility": "private",
-    "head": "94207f6b412e3b6a82be2dd9a7032e3d105116c8",
-    "kind": "classroom_archive",
-    "title": "Week 8 — Refactoring Customer Reporting",
-    "source_repository": "https://github.com/TUOS-COM-Reengineering-2026/w8-refactoring-pg_05",
-    "source_branches": {
-      "main": "f7dddc6297a56c0f929aeb9616eb596f97950ad5"
-    },
-    "source_tags": {},
-    "description": "COM6523 PG_05 archive: customer-reporting refactoring, threshold tests and mini report.",
-    "new_commits": [
-      {
-        "sha": "e6f41adc069f10dc2a43052c1e72757139fc4c2f",
-        "message": "docs: document coursework outcomes, usage and archive provenance",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week8-refactoring-pg-05/commit/e6f41adc069f10dc2a43052c1e72757139fc4c2f"
-      },
-      {
-        "sha": "94207f6b412e3b6a82be2dd9a7032e3d105116c8",
-        "message": "chore: preserve inherited workflows as inactive archive material",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week8-refactoring-pg-05/commit/94207f6b412e3b6a82be2dd9a7032e3d105116c8"
-      }
-    ],
-    "original_commits": 5
-  },
-  {
-    "repository": "yongjiang-niuniu/com6523-2026-week9-banking-responsibilities-pg-05",
-    "url": "https://github.com/yongjiang-niuniu/com6523-2026-week9-banking-responsibilities-pg-05",
-    "visibility": "private",
-    "head": "23c7ef8b8dcd73c1953fa633b3b9e309639a03a3",
-    "kind": "classroom_archive",
-    "title": "Week 9 — Redistributing Banking Responsibilities",
-    "source_repository": "https://github.com/TUOS-COM-Reengineering-2026/w9-redistribute-responsibilities-pg_05",
-    "source_branches": {
-      "main": "7f4090643c6f793671acea13a370f67a1bbac6de"
-    },
-    "source_tags": {},
-    "description": "COM6523 PG_05 archive: banking model responsibility redistribution, regression test and mini report.",
-    "new_commits": [
-      {
-        "sha": "d2ced40a65bce97d7c62225e9492f2e8add71113",
-        "message": "docs: document coursework outcomes, usage and archive provenance",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week9-banking-responsibilities-pg-05/commit/d2ced40a65bce97d7c62225e9492f2e8add71113"
-      },
-      {
-        "sha": "23c7ef8b8dcd73c1953fa633b3b9e309639a03a3",
-        "message": "chore: preserve inherited workflows as inactive archive material",
-        "url": "https://github.com/yongjiang-niuniu/com6523-2026-week9-banking-responsibilities-pg-05/commit/23c7ef8b8dcd73c1953fa633b3b9e309639a03a3"
-      }
-    ],
-    "original_commits": 5
+    "original_commits": 40,
+    "canonical_report_sha256": "de0b49b299663d7dc180f24d015b760ee9c024c6326ee124c6d1e3584e7a659c",
+    "blackboard_final_report_verified": true
   },
   {
     "repository": "yongjiang-niuniu/academic-project-portfolio",
     "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio",
     "visibility": "public",
     "kind": "public_portfolio",
-    "head": "b58826652b5d19b6c366b6f7fe7ee82285f08544",
+    "head": "4deed8212ddbff773c480c8374f881a3a1a0e8d4",
     "new_commits": [
       {
         "sha": "20f62ecfbaa5797bb1af400731c241bba76a188c",
@@ -421,6 +207,11 @@
         "sha": "b58826652b5d19b6c366b6f7fe7ee82285f08544",
         "message": "docs: require complete history and independent backup restoration",
         "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/b58826652b5d19b6c366b6f7fe7ee82285f08544"
+      },
+      {
+        "sha": "4deed8212ddbff773c480c8374f881a3a1a0e8d4",
+        "message": "docs: focus the portfolio on verified final project submissions",
+        "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/4deed8212ddbff773c480c8374f881a3a1a0e8d4"
       }
     ]
   }

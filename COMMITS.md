@@ -1,6 +1,6 @@
-# 本次整理新增提交
+# 整理提交历史记录
 
-这些提交对应实际归档或文档变更，使用整理时的真实时间。原历史提交未在这里重复列出。
+这些提交对应实际归档或文档变更，使用整理时的真实时间。原历史提交未在这里重复列出。本文件保留早期整理记录，不作为当前项目展示清单；其中每周练习已移出活动目录，删除进度见 [history/README.md](history/README.md)。
 
 ## yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems
 
@@ -11,6 +11,8 @@
 
 - [`b110a677`](https://github.com/yongjiang-niuniu/team/commit/b110a67771b2c62827c3e4255975099e3021be80) — docs: explain eWaste backend scope and local setup
 - [`5b641c8d`](https://github.com/yongjiang-niuniu/team/commit/5b641c8d57e00d64a2948406ac50e0597f534464) — docs: document collection request API and role workflow
+- [`0ac99b5a`](https://github.com/yongjiang-niuniu/team/commit/0ac99b5a18e4a00bc4b03ddc9cc9c9fe5439a880) — archive: preserve the official COM6103 final report and submission receipt
+- [`88dcfd26`](https://github.com/yongjiang-niuniu/team/commit/88dcfd26e344ee855bd2dbed646f417a6b55463d) — docs: connect the final submission to historical code and recovery gaps
 
 ## yongjiang-niuniu/COMP
 
@@ -33,6 +35,9 @@
 - [`f0633963`](https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/f063396394096fe43a78ff294050c324478f7f9e) — docs: preserve local final-report copy with checksummed provenance
 - [`b7497f35`](https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/b7497f35204e999dc4fc695ab9642430df73e5cc) — chore: preserve inherited workflows as inactive archive material
 - [`0d77b054`](https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/0d77b054b9b8473a0d31a8cee987ca3493557ca9) — chore: preserve upstream dependency updater as inactive archive material
+- [`9785ca3a`](https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/9785ca3af3359ab776c9644af1f7669987e4ce01) — docs: organize final yarl project around the submitted report
+- [`64feb8d3`](https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/64feb8d3d7b4a0453df46b0ab09239e97b30770e) — docs: verify canonical report against Blackboard final submission
+- [`71d868c9`](https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05/commit/71d868c9e77d61e2ebd0e7c0500a7bd3ffe97690) — docs: explain final project setup and evidence-preserving reproduction
 
 ## yongjiang-niuniu/com6523-2026-week1-python-git-setup
 
@@ -87,3 +92,7 @@
 - [`02155113`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/02155113ee1bcd79edbb4cb2620c039be2475952) — docs: add recovered EVRP research summary with artifact status
 - [`77e11982`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/77e119828bd41f7c5aa17beaeee6111ef6070e46) — docs: describe team reengineering work and clarify archive coverage
 - [`b5882665`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/b58826652b5d19b6c366b6f7fe7ee82285f08544) — docs: require complete history and independent backup restoration
+
+## 作品集最终提交索引更新
+
+- [`4deed821`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/4deed8212ddbff773c480c8374f881a3a1a0e8d4) — docs: focus the portfolio on verified final project submissions
