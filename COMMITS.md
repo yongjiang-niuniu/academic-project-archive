@@ -53,6 +53,8 @@
 
 - [`eb31c8bc`](https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/eb31c8bc3edca069d9ce6e3148248ca511d1ef51) — archive: preserve official COM6503 interactive graphics submission
 - [`661c151f`](https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/661c151fe12e04f64a096e2c2f06f975a7ae6fa9) — docs: explain graphics project setup and document pending second submission
+- [`5d810171`](https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/5d81017193ff031fee06c219da57781be9e1c7eb) — archive: preserve official COM6503 statue-rendering comparison report
+- [`c63b4b51`](https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/c63b4b516d45071d4260a5585486bed1257ea103) — docs: explain Blender material study and complete submission coverage
 
 ## yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems
 
@@ -68,6 +70,7 @@
 - [`b5882665`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/b58826652b5d19b6c366b6f7fe7ee82285f08544) — docs: require complete history and independent backup restoration
 - [`4deed821`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/4deed8212ddbff773c480c8374f881a3a1a0e8d4) — docs: focus the portfolio on verified final project submissions
 - [`2aa432bd`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/2aa432bdef32874b9aa35b7e2ad9d86d03b13634) — docs: catalogue recovered final projects and complete course review
+- [`5be8f75f`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/5be8f75f11427ecc5b7582f2402ae6ddb0b3ce61) — docs: complete submission coverage and record weekly archive cleanup
 
 ## yongjiang-niuniu/cider-100
 
