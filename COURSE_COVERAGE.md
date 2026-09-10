@@ -1,6 +1,6 @@
 # Blackboard 课程覆盖清单
 
-更新日期：2026 年 9 月 9 日。范围：2025–2026 学年全部可访问的 11 门课程；[课程列表](https://vle.shef.ac.uk/ultra/course)。本页不保存成绩、评语或测验答案。
+更新日期：2026 年 9 月 10 日。范围：2025–2026 学年全部可访问的 11 门课程；[课程列表](https://vle.shef.ac.uk/ultra/course)。本页不保存成绩、评语或测验答案。
 
 **11 门课程的完整作业列表均已检查：7 门有文件型项目提交，4 门没有已提交的文件型项目。** 四门的情况分别是毕业项目尚未提交、测验/考试、未提交的形成性草稿、培训活动。
 
@@ -10,12 +10,12 @@
 | --- | --- | --- | --- |
 | COM6906 | COM PGT Dissertation Project | 已检查：最终交付未提交 | 5 个论文/表单/代码入口均未提交，截止日显示为 2026 年 9 月 16 日。HPC 为进行中的研究快照。 |
 | COM6009 | Modelling and Simulation of Natural Systems | 正式报告已归档；源码缺失 | 正式 3 页个人报告已保存，涵盖 Duffing 振子、草兔狐主体模型和捕捞模型；未恢复模拟源码。 |
-| COM6103 | Team Software Project | 正式项目已私有归档 | 正式 Blackboard 报告、报告加入时和最新 main 的两个 GitLab 源码快照已保存；前后端源码已恢复。原 GitLab 的 249 个提交及分支历史未导入。 |
-| COM6521 | Parallel Computing with Graphical Processing Units (GPUs) | 正式项目已私有归档 | 正式 ZIP、学生源码、7 页报告和经官方上游校验的 v7 框架已保存；512 种局部窗口分类核对通过，完整 GPU 基准未重跑。 |
-| COM6523 | Software Reengineering | 正式项目已私有归档 | 团队最终报告、源码、分析材料、报告与代码对应指南及原课堂 Git 历史已保存。 |
-| COM6115 | Text Processing | 正式项目已私有归档 | 正式报告、原始 Sentiment.py、6 份课程数据、官方起始代码及说明已保存；默认脚本已受控跑通，使用本次新随机划分。 |
-| COM6503 | 3D Computer Graphics | 原件已恢复 | 作业 1 原始源码/资源 ZIP 和作业 2 正式 19 页论文均已私有归档。论文比较 Blender 石、木、金属材质的照片、Phong 式与 PBR 效果；原 .blend 场景、独立照片、材质包和精确渲染设置未恢复。 |
-| COM6516 | Object Oriented Programming and Software Design | 正式项目已私有归档 | 正式报告和原始提交 ZIP 已补入 COMP；7 份 Java 源码核对一致。保留 Java 25 编译文件，运行前按说明重新编译源码。 |
+| COM6103 | Team Software Project | 正式项目已公开归档 | 正式 Blackboard 报告、报告加入时和最新 main 的两个 GitLab 源码快照已保存；前后端源码已恢复。原 GitLab 的 249 个提交及分支历史未导入。 |
+| COM6521 | Parallel Computing with Graphical Processing Units (GPUs) | 正式项目已公开归档 | 正式 ZIP、学生源码、7 页报告和经官方上游校验的 v7 框架已保存；512 种局部窗口分类核对通过，完整 GPU 基准未重跑。 |
+| COM6523 | Software Reengineering | 正式项目已公开归档 | 团队最终报告、源码、分析材料、报告与代码对应指南及原课堂 Git 历史已保存。 |
+| COM6115 | Text Processing | 正式项目已公开归档 | 正式报告、原始 Sentiment.py、6 份课程数据、官方起始代码及说明已保存；默认脚本已受控跑通，使用本次新随机划分。 |
+| COM6503 | 3D Computer Graphics | 原件已恢复 | 作业 1 原始源码/资源 ZIP 和作业 2 正式 19 页论文均已公开归档。论文比较 Blender 石、木、金属材质的照片、Phong 式与 PBR 效果；原 .blend 场景、独立照片、材质包和精确渲染设置未恢复。 |
+| COM6516 | Object Oriented Programming and Software Design | 正式项目已公开归档 | 正式报告和原始提交 ZIP 已补入 COMP；7 份 Java 源码核对一致。保留 Java 25 编译文件，运行前按说明重新编译源码。 |
 | COM6655 | Professional Issues | 已检查：测验/考试 | 完整列表只有测验、考试和总评，无文件型课程项目入口；现有草稿未打开或修改。 |
 | SSDC012 | Skills Audit for Maths and Stats 11 | 已检查：未提交的形成性草稿 | 仅观察到形成性 Attempt 1 草稿，没有已提交的文件项目；未打开或更改。 |
 | FCEC005 | Understanding Harassment & Sexual Misconduct - Faculty of Engineering | 已检查：培训活动 | 4 项培训测验或完成活动，无文件型项目入口；不保存成绩、回答或反馈。 |

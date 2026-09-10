@@ -2,8 +2,8 @@
   {
     "repository": "yongjiang-niuniu/team",
     "url": "https://github.com/yongjiang-niuniu/team",
-    "visibility": "private",
-    "head": "601b4a8f6feac8ee40792b5d33d3bbf0d24062d4",
+    "visibility": "public",
+    "head": "640039800dd9eaf6264af9abf6671629269f232f",
     "kind": "official_coursework_archive",
     "course": "COM6103",
     "title": "eWaste Hub",
@@ -56,6 +56,12 @@
         "message": "docs: organize eWaste project overview and architecture navigation",
         "author_date": "2026-09-09T20:43:43+08:00",
         "url": "https://github.com/yongjiang-niuniu/team/commit/601b4a8f6feac8ee40792b5d33d3bbf0d24062d4"
+      },
+      {
+        "sha": "640039800dd9eaf6264af9abf6671629269f232f",
+        "message": "docs: update access wording while retaining team provenance",
+        "author_date": "2026-09-10T08:58:31+08:00",
+        "url": "https://github.com/yongjiang-niuniu/team/commit/640039800dd9eaf6264af9abf6671629269f232f"
       }
     ],
     "verification_source": "_audit/ewaste_integration_receipt.json",
@@ -78,12 +84,15 @@
     },
     "canonical_report_sha256": "1cded5fef40262c3e30cb883781ca83a682f3e64c261ccac4e75fd23e37cdc37",
     "latest_refresh_receipt": "_audit/project_refresh/team.json",
-    "latest_refresh_receipt_sha256": "34551ba93253c987ad4e80aca5b5d605744af250e8bea59b08c3d9d5a652b0a0"
+    "latest_refresh_receipt_sha256": "34551ba93253c987ad4e80aca5b5d605744af250e8bea59b08c3d9d5a652b0a0",
+    "current_visibility_verified_at_utc": "2026-09-10T01:07:10.035142+00:00",
+    "current_published_head_verified": true,
+    "latest_publication_documentation_record": "_audit/career_cv/publication_doc_updates_code.json"
   },
   {
     "repository": "yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05",
     "url": "https://github.com/yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05",
-    "visibility": "private",
+    "visibility": "public",
     "head": "ac613bebdea6750ee1d7ade5ed1cf7f9dc733d2e",
     "kind": "classroom_final_project_archive",
     "course": "COM6523",
@@ -150,13 +159,16 @@
     "verification_source": "_audit/blackboard/course_inventory.json",
     "latest_refresh_receipt": "_audit/project_refresh/com6523-2026-yarl-reengineering-pg-05.json",
     "latest_refresh_receipt_sha256": "a467b19cb7e7c61dcf1fc4fe38a622bf362e6f871ed03dd500790dbfa19d2c27",
-    "documentation_refresh_summary": "Reorganized the team reengineering overview around design, historical outcomes, setup and attribution; added documentation navigation and detailed archive notes."
+    "documentation_refresh_summary": "Reorganized the team reengineering overview around design, historical outcomes, setup and attribution; added documentation navigation and detailed archive notes.",
+    "current_visibility_verified_at_utc": "2026-09-10T01:07:10.035142+00:00",
+    "current_published_head_verified": true,
+    "latest_publication_documentation_record": "_audit/career_cv/publication_doc_updates_code.json"
   },
   {
     "repository": "yongjiang-niuniu/COMP",
     "url": "https://github.com/yongjiang-niuniu/COMP",
-    "visibility": "private",
-    "head": "72a84cc60ed04ca813c4f9d6df4b38112d864f54",
+    "visibility": "public",
+    "head": "8e9cb937c298faadf1f6d71d8133a71236f65291",
     "kind": "official_coursework_archive",
     "course": "COM6516",
     "title": "Statistical language model",
@@ -191,6 +203,12 @@
         "message": "docs: organize language model guide and source build workflow",
         "author_date": "2026-09-09T20:43:43+08:00",
         "url": "https://github.com/yongjiang-niuniu/COMP/commit/72a84cc60ed04ca813c4f9d6df4b38112d864f54"
+      },
+      {
+        "sha": "8e9cb937c298faadf1f6d71d8133a71236f65291",
+        "message": "docs: update access wording for public coursework presentation",
+        "author_date": "2026-09-10T08:58:31+08:00",
+        "url": "https://github.com/yongjiang-niuniu/COMP/commit/8e9cb937c298faadf1f6d71d8133a71236f65291"
       }
     ],
     "verification_source": "_audit/com6516_publication.json",
@@ -200,13 +218,16 @@
     "original_source_unchanged": true,
     "canonical_report_sha256": "52ab32c0464c8a7eec381743005f2b1b123f03bcbfea837e6d37efea053c98a4",
     "latest_refresh_receipt": "_audit/project_refresh/comp.json",
-    "latest_refresh_receipt_sha256": "c6991b0c269b58f533cf4a70306662fb4757827f11b92c6c53dd24da750431a4"
+    "latest_refresh_receipt_sha256": "c6991b0c269b58f533cf4a70306662fb4757827f11b92c6c53dd24da750431a4",
+    "current_visibility_verified_at_utc": "2026-09-10T01:07:10.035142+00:00",
+    "current_published_head_verified": true,
+    "latest_publication_documentation_record": "_audit/career_cv/publication_doc_updates_code.json"
   },
   {
     "repository": "yongjiang-niuniu/com6115-sentiment-analysis",
     "url": "https://github.com/yongjiang-niuniu/com6115-sentiment-analysis",
-    "visibility": "private",
-    "head": "40aee9bec9c0525875fd380460ec88c50f4cb092",
+    "visibility": "public",
+    "head": "6238616e7f898d65fb91d9b9964cc4ac8d875a3a",
     "kind": "official_coursework_archive",
     "course": "COM6115",
     "title": "Sentiment analysis",
@@ -247,6 +268,12 @@
         "message": "docs: unify project overview and add documentation navigation",
         "author_date": "2026-09-09T20:44:11+08:00",
         "url": "https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/40aee9bec9c0525875fd380460ec88c50f4cb092"
+      },
+      {
+        "sha": "6238616e7f898d65fb91d9b9964cc4ac8d875a3a",
+        "message": "docs: align archive provenance with authorized public publication",
+        "author_date": "2026-09-10T08:58:25+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/6238616e7f898d65fb91d9b9964cc4ac8d875a3a"
       }
     ],
     "verification_source": "_audit/com6115/publication_receipt.json",
@@ -255,13 +282,16 @@
     "historical_report_metrics_reproduced": false,
     "course_data_files_recovered": 6,
     "latest_refresh_receipt": "_audit/project_refresh/com6115-sentiment-analysis.json",
-    "latest_refresh_receipt_sha256": "d3fe03c0f1586628883ab2d6a5bc25c6410b6df17b24ea4a7f02ff98c1b742c0"
+    "latest_refresh_receipt_sha256": "d3fe03c0f1586628883ab2d6a5bc25c6410b6df17b24ea4a7f02ff98c1b742c0",
+    "current_visibility_verified_at_utc": "2026-09-10T01:07:10.035142+00:00",
+    "current_published_head_verified": true,
+    "latest_publication_documentation_record": "_audit/career_cv/publication_doc_updates_reports.json"
   },
   {
     "repository": "yongjiang-niuniu/com6521-parallel-computing",
     "url": "https://github.com/yongjiang-niuniu/com6521-parallel-computing",
-    "visibility": "private",
-    "head": "a4fe486ebb1a1c4a93cc005f4e8e37b569d14a6c",
+    "visibility": "public",
+    "head": "aa16eade8c3da66734d077d4db9950e6d5bb89d6",
     "kind": "official_coursework_archive",
     "course": "COM6521",
     "title": "Parallel computing",
@@ -290,18 +320,27 @@
         "message": "docs: unify project overview and add documentation navigation",
         "author_date": "2026-09-09T20:44:25+08:00",
         "url": "https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/a4fe486ebb1a1c4a93cc005f4e8e37b569d14a6c"
+      },
+      {
+        "sha": "aa16eade8c3da66734d077d4db9950e6d5bb89d6",
+        "message": "docs: align archive provenance with authorized public publication",
+        "author_date": "2026-09-10T08:58:34+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/aa16eade8c3da66734d077d4db9950e6d5bb89d6"
       }
     ],
     "verification_source": "_audit/com6521_publication.json",
     "verification_receipt_sha256": "4246d9941b51c76235dd31465dc250660f1b7566c7b835f6ebe759097f5a9670",
     "remote_head_and_files_verified": true,
     "latest_refresh_receipt": "_audit/project_refresh/com6521-parallel-computing.json",
-    "latest_refresh_receipt_sha256": "afd22187834ef4beb266954a96480a971a436ac39f857ea31b9236b968ce0c6e"
+    "latest_refresh_receipt_sha256": "afd22187834ef4beb266954a96480a971a436ac39f857ea31b9236b968ce0c6e",
+    "current_visibility_verified_at_utc": "2026-09-10T01:07:10.035142+00:00",
+    "current_published_head_verified": true,
+    "latest_publication_documentation_record": "_audit/career_cv/publication_doc_updates_reports.json"
   },
   {
     "repository": "yongjiang-niuniu/com6009-natural-systems-modelling",
     "url": "https://github.com/yongjiang-niuniu/com6009-natural-systems-modelling",
-    "visibility": "private",
+    "visibility": "public",
     "head": "fc93c42292c70ea0531767f7d73a4aceabf75ac3",
     "kind": "official_coursework_archive",
     "course": "COM6009",
@@ -339,13 +378,16 @@
     "original_simulation_source_recovered": false,
     "latest_refresh_receipt": "_audit/project_refresh/com6009-natural-systems-modelling.json",
     "latest_refresh_receipt_sha256": "7418f2ffd02410fd2adaa3b930506f0d15c957e126c40fc684b2bd9528eb032d",
-    "documentation_refresh_summary": "Explained three modelling investigations, figure reading order, reported numerical results and precise reproduction limitations."
+    "documentation_refresh_summary": "Explained three modelling investigations, figure reading order, reported numerical results and precise reproduction limitations.",
+    "current_visibility_verified_at_utc": "2026-09-10T01:07:10.035142+00:00",
+    "current_published_head_verified": true,
+    "latest_publication_documentation_record": "_audit/career_cv/publication_doc_updates_reports.json"
   },
   {
     "repository": "yongjiang-niuniu/com6503-3d-computer-graphics",
     "url": "https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics",
-    "visibility": "private",
-    "head": "877b6085696330e54d1d16b3b716cc987d2004ad",
+    "visibility": "public",
+    "head": "03e4706d94547a73b67c83382094e3ccc38b4a04",
     "kind": "official_coursework_archive",
     "course": "COM6503",
     "title": "3D computer graphics",
@@ -380,6 +422,12 @@
         "message": "docs: unify project overview and add documentation navigation",
         "author_date": "2026-09-09T20:44:38+08:00",
         "url": "https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/877b6085696330e54d1d16b3b716cc987d2004ad"
+      },
+      {
+        "sha": "03e4706d94547a73b67c83382094e3ccc38b4a04",
+        "message": "docs: align archive provenance with authorized public publication",
+        "author_date": "2026-09-10T08:58:43+08:00",
+        "url": "https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/03e4706d94547a73b67c83382094e3ccc38b4a04"
       }
     ],
     "verification_source": "_audit/com6503_publication.json",
@@ -394,7 +442,10 @@
       "Exact render settings not recovered"
     ],
     "latest_refresh_receipt": "_audit/project_refresh/com6503-3d-computer-graphics.json",
-    "latest_refresh_receipt_sha256": "cd33f85dc36df3986d40fc2d656f1f2706d2e7e3aaadbddae8e7ac798c9735ab"
+    "latest_refresh_receipt_sha256": "cd33f85dc36df3986d40fc2d656f1f2706d2e7e3aaadbddae8e7ac798c9735ab",
+    "current_visibility_verified_at_utc": "2026-09-10T01:07:10.035142+00:00",
+    "current_published_head_verified": true,
+    "latest_publication_documentation_record": "_audit/career_cv/publication_doc_updates_reports.json"
   },
   {
     "repository": "yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems",
@@ -429,13 +480,16 @@
     "course": "COM6906",
     "official_final_submission": false,
     "latest_refresh_receipt": "_audit/project_refresh/hpc.json",
-    "latest_refresh_receipt_sha256": "990eb86045e18edfdec0b4de26aa5ca074b1b2cfa5c6e4d49e902f7f85ac62e7"
+    "latest_refresh_receipt_sha256": "990eb86045e18edfdec0b4de26aa5ca074b1b2cfa5c6e4d49e902f7f85ac62e7",
+    "current_visibility_verified_at_utc": "2026-09-10T01:07:10.035142+00:00",
+    "current_published_head_verified": true,
+    "latest_publication_documentation_record": "_audit/career_cv/publication_doc_updates_code.json"
   },
   {
     "repository": "yongjiang-niuniu/academic-project-portfolio",
     "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio",
     "visibility": "public",
-    "head": "4146324872c5475347289784707e0ce5f74e1391",
+    "head": "3f273e5ca2311b80928e079665bca473e7767e6e",
     "kind": "public_portfolio",
     "title": "公开项目作品集",
     "description": "Yongjiang Liu's academic portfolio: software engineering, machine learning, HPC, optimization and graphics projects with final reports and practical guides.",
@@ -493,11 +547,18 @@
         "message": "docs: unify portfolio navigation and reflect refreshed project versions",
         "author_date": "2026-09-09T21:05:54+08:00",
         "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/4146324872c5475347289784707e0ce5f74e1391"
+      },
+      {
+        "sha": "3f273e5ca2311b80928e079665bca473e7767e6e",
+        "message": "docs: publish collection access policy and link GitHub profile",
+        "author_date": "2026-09-10T09:06:45+08:00",
+        "url": "https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/3f273e5ca2311b80928e079665bca473e7767e6e"
       }
     ],
     "verification_source": "GitHub published main ref read during catalogue generation",
-    "latest_refresh_receipt": "_audit/project_refresh/academic-project-portfolio.json",
-    "latest_refresh_receipt_sha256": "3ea94a4577ca6bb17d582d671765d6f072fdc432f279e08e0ee55165d69e813f"
+    "current_visibility_verified_at_utc": "2026-09-10T01:07:10.035142+00:00",
+    "current_published_head_verified": true,
+    "latest_publication_documentation_record": "_audit/career_cv/publication_doc_updates_reports.json"
   },
   {
     "repository": "yongjiang-niuniu/cifar-100",
@@ -542,12 +603,15 @@
     "rename_note": "Same GitHub repository and original history; historical receipts may retain the former slug.",
     "title": "CIFAR-100 experiments",
     "latest_refresh_receipt": "_audit/project_refresh/cifar-100.json",
-    "latest_refresh_receipt_sha256": "0bbd230c6844366f617ee6f5820c0a63e3ab1b8d20d6ff170535e73a420f934a"
+    "latest_refresh_receipt_sha256": "0bbd230c6844366f617ee6f5820c0a63e3ab1b8d20d6ff170535e73a420f934a",
+    "current_visibility_verified_at_utc": "2026-09-10T01:07:10.035142+00:00",
+    "current_published_head_verified": true,
+    "latest_publication_documentation_record": "_audit/career_cv/publication_doc_updates_code.json"
   },
   {
     "repository": "yongjiang-niuniu/evrp-perturbation-study",
     "url": "https://github.com/yongjiang-niuniu/evrp-perturbation-study",
-    "visibility": "private",
+    "visibility": "public",
     "head": "04058394789b574177504c99ffceb287472da51d",
     "kind": "report_archive",
     "title": "EVRP perturbation study",
@@ -576,6 +640,29 @@
     "verification_source": "_audit/evrp_publication.json",
     "latest_refresh_receipt": "_audit/project_refresh/evrp-perturbation-study.json",
     "latest_refresh_receipt_sha256": "237725c0872e919bb8178fbebceeb8044e4470fc082b0c4e48980481adf594a5",
-    "documentation_refresh_summary": "Explained the EVRP research questions and search methods, added report reading guidance, and distinguished historical results from unresolved table/prose discrepancies."
+    "documentation_refresh_summary": "Explained the EVRP research questions and search methods, added report reading guidance, and distinguished historical results from unresolved table/prose discrepancies.",
+    "current_visibility_verified_at_utc": "2026-09-10T01:07:10.035142+00:00",
+    "current_published_head_verified": true,
+    "latest_publication_documentation_record": "_audit/career_cv/publication_doc_updates_reports.json"
+  },
+  {
+    "repository": "yongjiang-niuniu/yongjiang-niuniu",
+    "url": "https://github.com/yongjiang-niuniu/yongjiang-niuniu",
+    "visibility": "public",
+    "head": "5880516f570f0af998a5fd7d06e57ec72257427d",
+    "kind": "profile",
+    "title": "GitHub profile",
+    "description": "Yongjiang Liu | AI application development, machine learning and software engineering portfolio.",
+    "new_commits": [
+      {
+        "sha": "5880516f570f0af998a5fd7d06e57ec72257427d",
+        "message": "docs: introduce AI application career profile and selected projects",
+        "author_date": "2026-09-10T09:04:40+08:00",
+        "url": "https://github.com/yongjiang-niuniu/yongjiang-niuniu/commit/5880516f570f0af998a5fd7d06e57ec72257427d"
+      }
+    ],
+    "verification_source": "GitHub published profile ref read during catalogue generation",
+    "current_visibility_verified_at_utc": "2026-09-10T01:07:10.035142+00:00",
+    "current_published_head_verified": true
   }
 ]

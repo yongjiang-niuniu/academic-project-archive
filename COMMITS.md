@@ -12,6 +12,7 @@ This ledger lists actual preservation, documentation and maintenance work for th
 - [`04492c40`](https://github.com/yongjiang-niuniu/team/commit/04492c406f457bb52d21aed5b7c450be61a1c856) — archive: recover latest eWaste GitLab source snapshot
 - [`80171ddf`](https://github.com/yongjiang-niuniu/team/commit/80171ddfb3fa030c239c858fb55d97b8625bbe4f) — docs: explain recovered eWaste versions and verified prototype scope
 - [`601b4a8f`](https://github.com/yongjiang-niuniu/team/commit/601b4a8f6feac8ee40792b5d33d3bbf0d24062d4) — docs: organize eWaste project overview and architecture navigation
+- [`64003980`](https://github.com/yongjiang-niuniu/team/commit/640039800dd9eaf6264af9abf6671629269f232f) — docs: update access wording while retaining team provenance
 
 ## yongjiang-niuniu/com6523-2026-yarl-reengineering-pg-05
 
@@ -31,6 +32,7 @@ This ledger lists actual preservation, documentation and maintenance work for th
 - [`3510dd09`](https://github.com/yongjiang-niuniu/COMP/commit/3510dd09eb5fd13651e4bf8eb35747dc7418cce8) — archive: preserve official COM6516 submission and final report
 - [`a78a60c4`](https://github.com/yongjiang-niuniu/COMP/commit/a78a60c4dccc9b9c697eb528127713ee922ce9a2) — docs: document final submission evidence and source rebuild requirements
 - [`72a84cc6`](https://github.com/yongjiang-niuniu/COMP/commit/72a84cc60ed04ca813c4f9d6df4b38112d864f54) — docs: organize language model guide and source build workflow
+- [`8e9cb937`](https://github.com/yongjiang-niuniu/COMP/commit/8e9cb937c298faadf1f6d71d8133a71236f65291) — docs: update access wording for public coursework presentation
 
 ## yongjiang-niuniu/com6115-sentiment-analysis
 
@@ -40,6 +42,7 @@ This ledger lists actual preservation, documentation and maintenance work for th
 - [`21ba61e8`](https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/21ba61e813688f102aa32f660bb12675d4d9bbb6) — archive: recover complete official COM6115 course dependencies
 - [`a0321db6`](https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/a0321db6d1b17bbda93b1791a156d84b7e1eb66e) — docs: document complete data recovery and verified submitted workflow
 - [`40aee9be`](https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/40aee9bec9c0525875fd380460ec88c50f4cb092) — docs: unify project overview and add documentation navigation
+- [`6238616e`](https://github.com/yongjiang-niuniu/com6115-sentiment-analysis/commit/6238616e7f898d65fb91d9b9964cc4ac8d875a3a) — docs: align archive provenance with authorized public publication
 
 ## yongjiang-niuniu/com6521-parallel-computing
 
@@ -47,6 +50,7 @@ This ledger lists actual preservation, documentation and maintenance work for th
 - [`5393dc78`](https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/5393dc78269c8d8e8504d27264eeb033bee0996b) — archive: restore verified course framework around submitted implementations
 - [`b74a521e`](https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/b74a521e3f460cefd67189a298c7ef930ad421bc) — docs: explain parallel algorithms, build workflow and evidence limits
 - [`a4fe486e`](https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/a4fe486ebb1a1c4a93cc005f4e8e37b569d14a6c) — docs: unify project overview and add documentation navigation
+- [`aa16eade`](https://github.com/yongjiang-niuniu/com6521-parallel-computing/commit/aa16eade8c3da66734d077d4db9950e6d5bb89d6) — docs: align archive provenance with authorized public publication
 
 ## yongjiang-niuniu/com6009-natural-systems-modelling
 
@@ -62,6 +66,7 @@ This ledger lists actual preservation, documentation and maintenance work for th
 - [`5d810171`](https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/5d81017193ff031fee06c219da57781be9e1c7eb) — archive: preserve official COM6503 statue-rendering comparison report
 - [`c63b4b51`](https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/c63b4b516d45071d4260a5585486bed1257ea103) — docs: explain Blender material study and complete submission coverage
 - [`877b6085`](https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/877b6085696330e54d1d16b3b716cc987d2004ad) — docs: unify project overview and add documentation navigation
+- [`03e4706d`](https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics/commit/03e4706d94547a73b67c83382094e3ccc38b4a04) — docs: align archive provenance with authorized public publication
 
 ## yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems
 
@@ -80,6 +85,7 @@ This ledger lists actual preservation, documentation and maintenance work for th
 - [`2aa432bd`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/2aa432bdef32874b9aa35b7e2ad9d86d03b13634) — docs: catalogue recovered final projects and complete course review
 - [`5be8f75f`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/5be8f75f11427ecc5b7582f2402ae6ddb0b3ce61) — docs: complete submission coverage and record weekly archive cleanup
 - [`41463248`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/4146324872c5475347289784707e0ce5f74e1391) — docs: unify portfolio navigation and reflect refreshed project versions
+- [`3f273e5c`](https://github.com/yongjiang-niuniu/academic-project-portfolio/commit/3f273e5ca2311b80928e079665bca473e7767e6e) — docs: publish collection access policy and link GitHub profile
 
 ## yongjiang-niuniu/cifar-100
 
@@ -93,3 +99,7 @@ This ledger lists actual preservation, documentation and maintenance work for th
 - [`9d2aa4b5`](https://github.com/yongjiang-niuniu/evrp-perturbation-study/commit/9d2aa4b5b78c317d929c1e219c1c196886d99c4f) — archive: preserve original EVRP research report with provenance
 - [`c6c3ae7b`](https://github.com/yongjiang-niuniu/evrp-perturbation-study/commit/c6c3ae7b4c76802e495fe9fa5f98258060f59f9d) — docs: explain EVRP methods, recovery scope and evidence limits
 - [`04058394`](https://github.com/yongjiang-niuniu/evrp-perturbation-study/commit/04058394789b574177504c99ffceb287472da51d) — docs: explain EVRP methods and guide interpretation of reported results
+
+## yongjiang-niuniu/yongjiang-niuniu
+
+- [`5880516f`](https://github.com/yongjiang-niuniu/yongjiang-niuniu/commit/5880516f570f0af998a5fd7d06e57ec72257427d) — docs: introduce AI application career profile and selected projects

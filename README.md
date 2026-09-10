@@ -1,10 +1,10 @@
 # Academic Project Archive
 
-A private catalogue of Yongjiang Liu’s coursework, software projects and research materials. Use it to find a project, read its setup and design notes, locate the official submission, and understand what has been verified or remains unavailable.
+A public catalogue of Yongjiang Liu’s coursework, software projects and research materials. Use it to find a project, read its setup and design notes, locate the official submission, and understand what has been verified or remains unavailable.
 
-中文概述：个人学校项目私有总目录，汇总课程最终提交、已有软件项目和研究报告；保留原始材料、真实提交历史及仍缺失的复现资料。
+中文概述：个人学校项目公开总目录，汇总课程最终提交、已有软件项目和研究报告；保留原始材料、真实提交历史及仍缺失的复现资料。
 
-[Public portfolio](https://github.com/yongjiang-niuniu/academic-project-portfolio) · [Course coverage](COURSE_COVERAGE.md) · [Recovery details](RECOVERY_STATUS.md) · [Commit ledger](COMMITS.md)
+[GitHub profile](https://github.com/yongjiang-niuniu) · [Project portfolio](https://github.com/yongjiang-niuniu/academic-project-portfolio) · [Course coverage](COURSE_COVERAGE.md) · [Recovery details](RECOVERY_STATUS.md) · [Commit ledger](COMMITS.md)
 
 ## Project at a glance
 
@@ -12,10 +12,10 @@ A private catalogue of Yongjiang Liu’s coursework, software projects and resea
 | --- | --- |
 | Academic coverage | 11 accessible courses reviewed: 7 with file-based project submissions and 4 without submitted file projects |
 | Submitted artifacts | 8 observed project submissions; all 9 original attachments recovered |
-| Catalogue | 10 project/research repositories, plus a reference to the public portfolio |
+| Collection | 13 public repositories: 10 projects/research archives, 2 indexes and 1 profile repository |
 | Types of work | Individual coursework, shared team projects, existing experiments and ongoing research |
 | Preservation | Original submissions, available source history, checksums and explicitly documented recovery limits |
-| Last reviewed | 9 September 2026 |
+| Last reviewed | 10 September 2026 |
 
 ## Project directory
 
@@ -52,11 +52,11 @@ The detailed course and historical records retain their original evidence and co
 2. Follow that repository’s documentation guide to inspect the design, final report or recorded results.
 3. Before reproducing an experiment, check its dependency requirements and stated evidence limits. A preserved report alone does not supply missing code, data or scene files.
 
-Private repositories require access through the owner’s GitHub account. The catalogue itself has no application runtime or shared dependency installation.
+All current repositories are public under the owner’s explicit publication instruction. The [profile repository](https://github.com/yongjiang-niuniu/yongjiang-niuniu) provides the personal introduction; this catalogue records detailed coverage and evidence. The catalogue itself has no application runtime or shared dependency installation.
 
 ## Results and verification
 
-Every accessible course assessment list was reviewed. The nine original file attachments observed across eight submitted project attempts were recovered and privately preserved. The four other course entries cover an unsubmitted dissertation, quizzes/tests, a formative draft and training activities; they are not presented as completed software projects.
+Every accessible course assessment list was reviewed. The nine original file attachments observed across eight submitted project attempts were recovered and are publicly available in the corresponding project archives. The four other course entries cover an unsubmitted dissertation, quizzes/tests, a formative draft and training activities; they are not presented as completed software projects.
 
 Repository entries point to verified published versions. Per-project records distinguish original report results from later checks, including the eWaste backend tests, sentiment-analysis run, parallel-code checks and source/archive comparisons. The maintained CIFAR workflow passed two bounded offline checks using generated data and a single CPU epoch; no full CIFAR-100 training or new accuracy benchmark was performed.
 
@@ -76,4 +76,4 @@ Project ownership, team contributions, upstream licenses and teacher-provided ma
 
 The image-classification repository is now [cifar-100](https://github.com/yongjiang-niuniu/cifar-100). The rename preserved repository ID 955965824 and its Git history. Historical receipts may mention its former slug; all active links here use the current name.
 
-Original timestamps and authors remain in the available history. New commits describe actual preservation, documentation or maintenance work. The detailed records retain different versions without inventing source code, measurements or development history. Independent backup versions and restore results remain recorded separately.
+Earlier private-publication receipts retain the state recorded at recovery; current visibility is verified separately. Original timestamps and authors remain in the available history. New commits describe actual preservation, documentation or maintenance work. The detailed records retain different versions without inventing source code, measurements or development history. Independent backup versions and restore results remain recorded separately.
