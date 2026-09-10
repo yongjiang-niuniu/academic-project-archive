@@ -6,6 +6,8 @@ A public catalogue of Yongjiang Liu’s coursework, software projects and resear
 
 [GitHub profile](https://github.com/yongjiang-niuniu) · [Project portfolio](https://github.com/yongjiang-niuniu/academic-project-portfolio) · [Course coverage](COURSE_COVERAGE.md) · [Recovery details](RECOVERY_STATUS.md) · [Commit ledger](COMMITS.md)
 
+The [paper and report index](https://github.com/yongjiang-niuniu/academic-project-portfolio/blob/main/PAPERS.md) records the September Overleaf review, direct PDF links, manuscript versions and six undergraduate reports without a matching course repository.
+
 ## Project at a glance
 
 | Item | Scope |
