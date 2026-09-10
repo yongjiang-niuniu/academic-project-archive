@@ -30,7 +30,7 @@ A public catalogue of Yongjiang Liu’s coursework, software projects and resear
 | [3D computer graphics](https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics) | COM6503 | C++ / OpenGL / Blender report | Interactive bee scene and a separate statue-material comparison; both official attachments preserved. |
 | [HPC energy and carbon](https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems) | COM6906 | Python / Slurm simulation | Workload, energy and carbon analysis snapshots; ongoing research, not a submitted final dissertation. |
 | [CIFAR-100 experiments](https://github.com/yongjiang-niuniu/cifar-100) | Existing project | PyTorch / ResNet / ViT | Original notebooks preserved alongside a maintained ResNet-50 workflow; bounded CPU checks use generated fixtures, without a new CIFAR-100 accuracy benchmark. |
-| [EVRP perturbation study](https://github.com/yongjiang-niuniu/evrp-perturbation-study) | Research report | Optimisation research report | Original electric-vehicle routing research report; implementation and raw experiment records remain missing. |
+| [EVRP perturbation study](https://github.com/yongjiang-niuniu/evrp-perturbation-study) | Personal research | Python / GA / SA / ACO | Original report and LaTeX source; recovered 12 March 2025 Python development snapshot, 17 benchmark inputs and stored results, with upstream attribution. |
 
 Each project README follows the same reading order: purpose, project facts, capabilities, repository guide, setup, method, evidence, limitations and provenance. Runtime commands stay with the relevant project.
 
@@ -66,7 +66,8 @@ The nine personal COM6523 weekly exercise repositories were deleted after backup
 
 - eWaste preserves two GitLab source snapshots, but the original 249 commits, branch relationships and platform discussions were not imported.
 - The graphics report is preserved, while original Blender scenes, independent photographs/material packages and exact render settings remain missing.
-- Natural-systems modelling and EVRP have report archives with missing original implementation or experiment artifacts.
+- Natural-systems modelling remains a report archive without the original simulation code, data or seeds.
+- EVRP's recovered 12 March 2025 development snapshot has not been matched to all final April 2025 experiments. Exact experiment configurations remain unverified, and the report's described C++ validator has not been identified in that snapshot.
 - HPC work is ongoing research; the reviewed Blackboard dissertation and code submission entries were not submitted.
 - Git archives do not automatically include external services, platform discussions or untracked experiment data. Individual repositories explain their runtime and validation limits.
 
