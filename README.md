@@ -15,7 +15,7 @@ The [paper and report index](https://github.com/yongjiang-niuniu/academic-projec
 | Academic coverage | 11 accessible courses reviewed: 7 with file-based project submissions and 4 without submitted file projects |
 | Submitted artifacts | 8 observed project submissions; all 9 original attachments recovered |
 | Collection | 13 public repositories: 10 projects/research archives, 2 indexes and 1 profile repository |
-| Types of work | Individual coursework, shared team projects, existing experiments and ongoing research |
+| Types of work | Individual coursework, shared team projects, experiments and a submitted MSc dissertation |
 | Preservation | Original submissions, available source history, checksums and explicitly documented recovery limits |
 | Last reviewed | 10 September 2026 |
 
@@ -30,7 +30,7 @@ The [paper and report index](https://github.com/yongjiang-niuniu/academic-projec
 | [Parallel computing](https://github.com/yongjiang-niuniu/com6521-parallel-computing) | COM6521 | C / OpenMP / CUDA | Glider counting, histograms and embossing with the original student implementations and verified course framework. |
 | [Natural-systems modelling](https://github.com/yongjiang-niuniu/com6009-natural-systems-modelling) | COM6009 | Simulation report | Duffing oscillator, grass/rabbit/fox agents and harvested population models; original simulation code remains missing. |
 | [3D computer graphics](https://github.com/yongjiang-niuniu/com6503-3d-computer-graphics) | COM6503 | C++ / OpenGL / Blender report | Interactive bee scene and a separate statue-material comparison; both official attachments preserved. |
-| [HPC energy and carbon](https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems) | COM6906 | Python / Slurm simulation | Workload, energy and carbon analysis snapshots; ongoing research, not a submitted final dissertation. |
+| [HPC energy and carbon](https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems) | COM6906 | Python / Slurm simulation | Final 99-page dissertation, LaTeX and the 2,660-file code package submitted on 16 September 2026. |
 | [CIFAR-100 experiments](https://github.com/yongjiang-niuniu/cifar-100) | Existing project | PyTorch / ResNet / ViT | Original notebooks preserved alongside a maintained ResNet-50 workflow; bounded CPU checks use generated fixtures, without a new CIFAR-100 accuracy benchmark. |
 | [EVRP perturbation study](https://github.com/yongjiang-niuniu/evrp-perturbation-study) | Personal research | Python / GA / SA / ACO | Original report and LaTeX source; recovered 12 March 2025 Python development snapshot, 17 benchmark inputs and stored results, with upstream attribution. |
 
@@ -58,7 +58,7 @@ All current repositories are public under the owner’s explicit publication ins
 
 ## Results and verification
 
-Every accessible course assessment list was reviewed. The nine original file attachments observed across eight submitted project attempts were recovered and are publicly available in the corresponding project archives. The four other course entries cover an unsubmitted dissertation, quizzes/tests, a formative draft and training activities; they are not presented as completed software projects.
+Every accessible course assessment list was reviewed. The nine original file attachments observed across eight submitted project attempts were recovered and are publicly available in the corresponding project archives. The dissertation was subsequently submitted on 16 September 2026, bringing coverage to eight courses with project submissions. The remaining three entries cover quizzes/tests, a formative draft and training activities.
 
 Repository entries point to verified published versions. Per-project records distinguish original report results from later checks, including the eWaste backend tests, sentiment-analysis run, parallel-code checks and source/archive comparisons. The maintained CIFAR workflow passed two bounded offline checks using generated data and a single CPU epoch; no full CIFAR-100 training or new accuracy benchmark was performed.
 
@@ -70,7 +70,7 @@ The nine personal COM6523 weekly exercise repositories were deleted after backup
 - The graphics report is preserved, while original Blender scenes, independent photographs/material packages and exact render settings remain missing.
 - Natural-systems modelling remains a report archive without the original simulation code, data or seeds.
 - EVRP's recovered 12 March 2025 development snapshot has not been matched to all final April 2025 experiments. Exact experiment configurations remain unverified, and the report's described C++ validator has not been identified in that snapshot.
-- HPC work is ongoing research; the reviewed Blackboard dissertation and code submission entries were not submitted.
+- HPC dissertation and code were submitted on 16 September 2026. The repository now holds those exact final files; data-dependent reproduction still requires authorised external inputs.
 - Git archives do not automatically include external services, platform discussions or untracked experiment data. Individual repositories explain their runtime and validation limits.
 
 ## Attribution and provenance

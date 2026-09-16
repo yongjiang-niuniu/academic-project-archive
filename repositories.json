@@ -452,9 +452,9 @@
     "url": "https://github.com/yongjiang-niuniu/Energy-and-Carbon-Monitoring-in-High-Performance-Computing-HPC-Systems",
     "visibility": "public",
     "head": "75b0bc4b69b79002548915bfd31e626c34ba5bd1",
-    "kind": "existing_project_documentation",
+    "kind": "submitted_dissertation",
     "source_head": "8ae4318369edf4b72827225fa61dd371a75b703f",
-    "description": "HPC energy and carbon estimation: synthetic Slurm workloads, scheduling-log analysis, per-job models and documented research results.",
+    "description": "Final submitted MSc dissertation: trace-driven carbon-aware HPC scheduling evaluation using Stanage accounting data and Slurm simulation.",
     "new_commits": [
       {
         "sha": "a4ecf5455f341929dfd397877bf7d4e522aba177",
@@ -478,12 +478,17 @@
     "verification_source": "_audit/github_docs_results.json",
     "title": "HPC energy and carbon",
     "course": "COM6906",
-    "official_final_submission": false,
+    "official_final_submission": true,
     "latest_refresh_receipt": "_audit/project_refresh/hpc.json",
     "latest_refresh_receipt_sha256": "990eb86045e18edfdec0b4de26aa5ca074b1b2cfa5c6e4d49e902f7f85ac62e7",
     "current_visibility_verified_at_utc": "2026-09-10T01:07:10.035142+00:00",
-    "current_published_head_verified": true,
-    "latest_publication_documentation_record": "_audit/career_cv/publication_doc_updates_code.json"
+    "current_published_head_verified": false,
+    "latest_publication_documentation_record": "_audit/career_cv/publication_doc_updates_code.json",
+    "paper": "Dissertation.pdf",
+    "latex_source": "latex/main.tex",
+    "submitted_date": "2026-09-16",
+    "submitted_code_files": 2660,
+    "head_note": "The head above records the earlier archive snapshot. The final September 16 release is identified by its normal Git commit history."
   },
   {
     "repository": "yongjiang-niuniu/academic-project-portfolio",
